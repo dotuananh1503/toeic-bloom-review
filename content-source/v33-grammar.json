@@ -1,0 +1,2093 @@
+{
+  "file": "toeic-bloom-v3-3-present-simple-fixed.html",
+  "sha256": "b347e1984b25579a26ccc533fd6c4b23cd251bf2bb5b7a9a867475be41a5beb8",
+  "chapters": [
+    {
+      "topic": [
+        "Từ loại & Word Forms",
+        "Noun, Verb, Adjective, Adverb",
+        "Cơ bản",
+        "🔤",
+        12
+      ],
+      "lesson": {
+        "title": "Word Forms: Chọn đúng từ loại",
+        "sub": "Cách nhận biết vị trí của danh từ, tính từ và trạng từ trong câu TOEIC.",
+        "formulas": [
+          [
+            "Noun",
+            "article + (adj) + noun",
+            "Đứng sau mạo từ hoặc tính từ"
+          ],
+          [
+            "Adjective",
+            "be + adjective",
+            "Mô tả người hoặc vật"
+          ],
+          [
+            "Adverb",
+            "verb + adverb",
+            "Bổ nghĩa cho động từ"
+          ]
+        ],
+        "example": "The manager explained the new policy <strong style=\"color:#6558da\">clearly</strong> during the meeting.",
+        "translation": "Người quản lý giải thích chính sách mới một cách rõ ràng trong cuộc họp.",
+        "tip": "Nhìn vào vai trò của chỗ trống trước khi xét nghĩa của bốn phương án.",
+        "question": "The proposal was presented _____ to the committee.",
+        "options": [
+          "clear",
+          "clearly",
+          "clarity",
+          "clearing"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. clearly. Chỗ trống bổ nghĩa cho động từ “was presented”, nên cần trạng từ."
+      },
+      "cases": [
+        {
+          "title": "Danh từ sau mạo từ và tính từ",
+          "pattern": "a / an / the + (adjective) + noun",
+          "usage": "Cần danh từ khi vị trí đó gọi tên người, vật, sự việc hoặc khái niệm.",
+          "examples": [
+            {
+              "en": "The manager approved the final proposal.",
+              "vi": "Người quản lý đã phê duyệt bản đề xuất cuối cùng."
+            },
+            {
+              "en": "We need an immediate response.",
+              "vi": "Chúng ta cần một phản hồi ngay lập tức."
+            }
+          ],
+          "tip": "Danh từ đếm được số ít thường cần từ hạn định; không chọn tính từ chỉ vì nghĩa nghe hợp."
+        },
+        {
+          "title": "Tính từ trước danh từ",
+          "pattern": "(determiner) + adjective + noun",
+          "usage": "Tính từ bổ nghĩa cho danh từ trong cụm danh từ.",
+          "examples": [
+            {
+              "en": "The company hired an experienced technician.",
+              "vi": "Công ty đã tuyển một kỹ thuật viên giàu kinh nghiệm."
+            },
+            {
+              "en": "They provided a detailed schedule.",
+              "vi": "Họ đã cung cấp một lịch trình chi tiết."
+            }
+          ],
+          "tip": "Đừng nhầm đuôi -ly luôn là trạng từ: friendly và costly có thể là tính từ."
+        },
+        {
+          "title": "Tính từ sau linking verbs",
+          "pattern": "be / seem / become / remain + adjective",
+          "usage": "Các động từ nối mô tả trạng thái, không dùng trạng từ theo cách thông thường.",
+          "examples": [
+            {
+              "en": "The instructions remain unclear.",
+              "vi": "Hướng dẫn vẫn chưa rõ ràng."
+            },
+            {
+              "en": "The new system seems reliable.",
+              "vi": "Hệ thống mới có vẻ đáng tin cậy."
+            }
+          ],
+          "tip": "Phân biệt look (trông có vẻ) + adjective và look at (nhìn vào) + noun."
+        },
+        {
+          "title": "Trạng từ bổ nghĩa cho động từ",
+          "pattern": "verb + adverb / adverb + verb",
+          "usage": "Nói về cách thức, mức độ hoặc tần suất hành động.",
+          "examples": [
+            {
+              "en": "The staff responded quickly to the request.",
+              "vi": "Nhân viên phản hồi yêu cầu một cách nhanh chóng."
+            },
+            {
+              "en": "Our department regularly updates the database.",
+              "vi": "Bộ phận chúng tôi thường xuyên cập nhật cơ sở dữ liệu."
+            }
+          ],
+          "tip": "Trạng từ chỉ tần suất thường đứng trước động từ thường nhưng sau be."
+        },
+        {
+          "title": "Trạng từ bổ nghĩa cho tính từ",
+          "pattern": "adverb + adjective",
+          "usage": "Một số trạng từ tăng/giảm mức độ của tính từ.",
+          "examples": [
+            {
+              "en": "The new application is highly efficient.",
+              "vi": "Ứng dụng mới có hiệu suất rất cao."
+            },
+            {
+              "en": "The product is widely available.",
+              "vi": "Sản phẩm được phân phối rộng rãi."
+            }
+          ],
+          "tip": "Highly không phải lựa chọn tự nhiên cho mọi tính từ; chú ý collocation."
+        },
+        {
+          "title": "Động từ theo sau modal và trợ động từ",
+          "pattern": "modal + base verb / do + base verb",
+          "usage": "Sau can, will, must, should... dùng động từ nguyên mẫu không to.",
+          "examples": [
+            {
+              "en": "All visitors must register at reception.",
+              "vi": "Tất cả khách phải đăng ký tại quầy lễ tân."
+            },
+            {
+              "en": "Did you receive the revised contract?",
+              "vi": "Bạn đã nhận được hợp đồng sửa đổi chưa?"
+            }
+          ],
+          "tip": "Sau did không dùng dạng quá khứ của động từ chính."
+        },
+        {
+          "title": "Phân biệt tính từ -ed và -ing",
+          "pattern": "-ed: cảm nhận / -ing: đặc điểm gây cảm nhận",
+          "usage": "Thường gặp trong email phản hồi và mô tả dịch vụ.",
+          "examples": [
+            {
+              "en": "The customers were satisfied with the service.",
+              "vi": "Khách hàng hài lòng với dịch vụ."
+            },
+            {
+              "en": "The training session was interesting.",
+              "vi": "Buổi đào tạo rất thú vị."
+            }
+          ],
+          "tip": "Một số cặp từ như experienced / experiencing cần xét ngữ cảnh cụ thể."
+        }
+      ],
+      "mistakes": [
+        [
+          "The proposal was explained clear.",
+          "The proposal was explained clearly.",
+          "Sau explained cần trạng từ bổ nghĩa cho cách giải thích."
+        ],
+        [
+          "an informations",
+          "some information",
+          "Information là danh từ không đếm được."
+        ]
+      ],
+      "notes": "Từ loại được chọn theo **vai trò trong câu**, rồi mới đến nghĩa và collocation. Cần phân biệt các từ cùng gốc như success / successful / successfully / succeed."
+    },
+    {
+      "topic": [
+        "Tổng quan 12 thì (demo)",
+        "Có liên kết đến bài Hiện tại đơn chuyên sâu",
+        "Cơ bản",
+        "🕘",
+        12
+      ],
+      "lesson": {
+        "title": "Past Perfect: Quá khứ hoàn thành",
+        "sub": "Diễn tả một hành động xảy ra trước một mốc hoặc hành động khác trong quá khứ.",
+        "formulas": [
+          [
+            "Khẳng định",
+            "S + had + V3/ed",
+            "Hành động xảy ra sớm hơn"
+          ],
+          [
+            "Phủ định",
+            "S + had not + V3/ed",
+            "Hành động chưa xảy ra"
+          ],
+          [
+            "Dấu hiệu",
+            "By the time + past",
+            "So sánh hai mốc quá khứ"
+          ]
+        ],
+        "example": "The team <strong style=\"color:#6558da\">had finished</strong> the report before the director arrived.",
+        "translation": "Nhóm đã hoàn thành báo cáo trước khi giám đốc đến.",
+        "tip": "Có hai hành động quá khứ: hành động xảy ra trước thường dùng Past Perfect.",
+        "question": "By the time the manager arrived, the team _____ the report.",
+        "options": [
+          "completes",
+          "had completed",
+          "has completed",
+          "complete"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. had completed: hoàn thành báo cáo trước thời điểm người quản lý đến."
+      },
+      "cases": [
+        {
+          "title": "Present Simple — thói quen, lịch trình",
+          "pattern": "S + V(s/es)",
+          "usage": "Hành động lặp lại, sự thật, lịch trình cố định.",
+          "examples": [
+            {
+              "en": "Our office opens at 8 a.m.",
+              "vi": "Văn phòng chúng tôi mở cửa lúc 8 giờ sáng."
+            },
+            {
+              "en": "The shuttle leaves every thirty minutes.",
+              "vi": "Xe trung chuyển khởi hành mỗi ba mươi phút."
+            }
+          ],
+          "tip": "Không thêm -s vào động từ sau chủ ngữ số nhiều hoặc sau do/does."
+        },
+        {
+          "title": "Present Continuous — đang diễn ra, tạm thời",
+          "pattern": "am / is / are + V-ing",
+          "usage": "Sự việc đang xảy ra hoặc tình huống tạm thời.",
+          "examples": [
+            {
+              "en": "The team is reviewing the applications now.",
+              "vi": "Nhóm đang xem xét hồ sơ ứng tuyển."
+            },
+            {
+              "en": "We are working from a temporary office this month.",
+              "vi": "Chúng tôi đang làm việc tại văn phòng tạm trong tháng này."
+            }
+          ],
+          "tip": "Các động từ trạng thái như know, own thường không dùng tiếp diễn theo nghĩa thông thường."
+        },
+        {
+          "title": "Past Simple — quá khứ đã kết thúc",
+          "pattern": "S + V2/ed",
+          "usage": "Hành động tại thời điểm đã kết thúc, thường có yesterday, last, ago.",
+          "examples": [
+            {
+              "en": "The supplier delivered the goods yesterday.",
+              "vi": "Nhà cung cấp đã giao hàng hôm qua."
+            },
+            {
+              "en": "We attended the trade fair last week.",
+              "vi": "Chúng tôi đã dự hội chợ thương mại tuần trước."
+            }
+          ],
+          "tip": "Không dùng Present Perfect với thời điểm quá khứ đã khép lại như yesterday."
+        },
+        {
+          "title": "Past Continuous — đang diễn ra trong quá khứ",
+          "pattern": "was / were + V-ing",
+          "usage": "Nền hành động đang diễn ra khi một sự kiện khác xảy đến.",
+          "examples": [
+            {
+              "en": "I was checking the figures when she called.",
+              "vi": "Tôi đang kiểm tra số liệu khi cô ấy gọi."
+            },
+            {
+              "en": "They were repairing the elevator all morning.",
+              "vi": "Họ đang sửa thang máy suốt buổi sáng hôm đó."
+            }
+          ],
+          "tip": "Khi hai hành động có độ dài khác nhau, xét hành động nền và hành động xen vào."
+        },
+        {
+          "title": "Present Perfect — trải nghiệm",
+          "pattern": "have / has + V3",
+          "usage": "Một trải nghiệm trong quãng thời gian tính đến hiện tại, thường với ever, never.",
+          "examples": [
+            {
+              "en": "Have you ever worked with this supplier?",
+              "vi": "Bạn đã từng làm việc với nhà cung cấp này chưa?"
+            },
+            {
+              "en": "She has visited our Singapore office twice.",
+              "vi": "Cô ấy đã đến văn phòng Singapore của chúng tôi hai lần."
+            }
+          ],
+          "tip": "Không cần nêu thời điểm quá khứ cụ thể."
+        },
+        {
+          "title": "Present Perfect — kết quả hiện tại",
+          "pattern": "have / has + V3",
+          "usage": "Hành động quá khứ có liên hệ hoặc kết quả vẫn đáng quan tâm lúc nói.",
+          "examples": [
+            {
+              "en": "The manager has approved your request.",
+              "vi": "Người quản lý đã phê duyệt yêu cầu của bạn."
+            },
+            {
+              "en": "We have already updated the schedule.",
+              "vi": "Chúng tôi đã cập nhật lịch trình rồi."
+            }
+          ],
+          "tip": "Already, just, yet thường xuất hiện, nhưng không tự động quyết định thì."
+        },
+        {
+          "title": "Present Perfect Continuous — kéo dài đến hiện tại",
+          "pattern": "have / has been + V-ing",
+          "usage": "Nhấn mạnh thời lượng hoặc quá trình bắt đầu trước và kéo tới hiện tại.",
+          "examples": [
+            {
+              "en": "We have been waiting for a response since Monday.",
+              "vi": "Chúng tôi chờ phản hồi từ thứ Hai đến nay."
+            },
+            {
+              "en": "The engineers have been testing the device all day.",
+              "vi": "Các kỹ sư đã thử thiết bị suốt ngày hôm nay."
+            }
+          ],
+          "tip": "Một số động từ trạng thái ưu tiên Present Perfect Simple."
+        },
+        {
+          "title": "Past Perfect — xảy ra trước một mốc quá khứ",
+          "pattern": "had + V3",
+          "usage": "Đặt một sự kiện lùi xa hơn một sự kiện khác trong quá khứ.",
+          "examples": [
+            {
+              "en": "The meeting had started before I arrived.",
+              "vi": "Cuộc họp đã bắt đầu trước khi tôi đến."
+            },
+            {
+              "en": "By noon, the staff had processed all applications.",
+              "vi": "Đến trưa, nhân viên đã xử lý xong mọi hồ sơ."
+            }
+          ],
+          "tip": "Không nhất thiết dùng Past Perfect nếu thứ tự sự kiện đã rõ và không cần nhấn mạnh."
+        },
+        {
+          "title": "Past Perfect Continuous — quá trình trước quá khứ",
+          "pattern": "had been + V-ing",
+          "usage": "Nhấn mạnh sự kéo dài đến trước một mốc trong quá khứ.",
+          "examples": [
+            {
+              "en": "She had been working for three hours before the break.",
+              "vi": "Cô ấy đã làm việc ba giờ trước giờ nghỉ."
+            },
+            {
+              "en": "The system had been running smoothly until the outage.",
+              "vi": "Hệ thống đã vận hành ổn định cho đến khi mất dịch vụ."
+            }
+          ],
+          "tip": "Phân biệt kết quả hoàn tất (had V3) và quá trình kéo dài (had been V-ing)."
+        },
+        {
+          "title": "Future Simple — quyết định, dự đoán",
+          "pattern": "will + base verb",
+          "usage": "Dùng cho dự đoán, đề nghị, quyết định đưa ra lúc nói.",
+          "examples": [
+            {
+              "en": "I will send the file after the meeting.",
+              "vi": "Tôi sẽ gửi tệp sau cuộc họp."
+            },
+            {
+              "en": "Demand will probably increase next quarter.",
+              "vi": "Nhu cầu có lẽ sẽ tăng trong quý tới."
+            }
+          ],
+          "tip": "Không dùng will sau if trong mệnh đề điều kiện loại 1 thông thường."
+        },
+        {
+          "title": "Be going to — ý định hoặc dấu hiệu",
+          "pattern": "am / is / are going to + base verb",
+          "usage": "Ý định đã có trước hoặc dự đoán dựa vào dấu hiệu hiện tại.",
+          "examples": [
+            {
+              "en": "We are going to expand the sales team.",
+              "vi": "Chúng tôi dự định mở rộng nhóm bán hàng."
+            },
+            {
+              "en": "Look at the dark clouds. It is going to rain.",
+              "vi": "Nhìn mây đen kìa. Trời sắp mưa."
+            }
+          ],
+          "tip": "Kế hoạch chắc chắn có thể dùng Present Continuous với mốc tương lai."
+        },
+        {
+          "title": "Future Continuous — đang diễn ra ở mốc tương lai",
+          "pattern": "will be + V-ing",
+          "usage": "Hành động đang tiếp diễn tại thời điểm nhất định trong tương lai.",
+          "examples": [
+            {
+              "en": "This time tomorrow, we will be meeting the client.",
+              "vi": "Giờ này ngày mai, chúng tôi sẽ đang gặp khách hàng."
+            },
+            {
+              "en": "At 3 p.m., the technicians will be installing the equipment.",
+              "vi": "Lúc 3 giờ chiều, kỹ thuật viên sẽ đang lắp thiết bị."
+            }
+          ],
+          "tip": "Tập trung quá trình, không phải việc hoàn thành."
+        },
+        {
+          "title": "Future Perfect — hoàn tất trước hạn",
+          "pattern": "will have + V3",
+          "usage": "Nhấn mạnh việc hoàn thành trước một thời điểm tương lai.",
+          "examples": [
+            {
+              "en": "By Friday, we will have completed the audit.",
+              "vi": "Trước thứ Sáu, chúng tôi sẽ hoàn tất kiểm toán."
+            },
+            {
+              "en": "She will have submitted the report by 5 p.m.",
+              "vi": "Cô ấy sẽ nộp báo cáo trước 5 giờ chiều."
+            }
+          ],
+          "tip": "By + mốc tương lai là dấu hiệu hữu ích nhưng cần kiểm tra ý nghĩa câu."
+        },
+        {
+          "title": "Future Perfect Continuous — kéo dài đến mốc tương lai",
+          "pattern": "will have been + V-ing",
+          "usage": "Diễn tả một hoạt động sẽ kéo dài bao lâu tính đến một thời điểm tương lai.",
+          "examples": [
+            {
+              "en": "By December, she will have been managing the branch for ten years.",
+              "vi": "Đến tháng Mười Hai, cô ấy sẽ quản lý chi nhánh được mười năm."
+            },
+            {
+              "en": "Next month, we will have been using this system for three years.",
+              "vi": "Tháng tới, chúng tôi sẽ sử dụng hệ thống này được ba năm."
+            }
+          ],
+          "tip": "Nhấn mạnh thời lượng kéo dài tới một thời điểm tương lai, khác với hoàn tất công việc."
+        }
+      ],
+      "mistakes": [
+        [
+          "I have sent it yesterday.",
+          "I sent it yesterday.",
+          "Yesterday là mốc quá khứ đã kết thúc."
+        ],
+        [
+          "If it will rain, we will delay.",
+          "If it rains, we will delay.",
+          "Mệnh đề if loại 1 dùng hiện tại đơn trong trường hợp này."
+        ]
+      ],
+      "notes": "Hệ thống thì không chỉ là 12 công thức: cần phân biệt **thời điểm, khía cạnh hành động, tín hiệu ngữ cảnh** và lịch trình tương lai."
+    },
+    {
+      "topic": [
+        "Câu bị động",
+        "Passive Voice & applications",
+        "Trung cấp",
+        "🔄",
+        8
+      ],
+      "lesson": {
+        "title": "Passive Voice: Câu bị động",
+        "sub": "Nhận diện nhanh câu bị động trong thông báo, email và quy định công sở.",
+        "formulas": [
+          [
+            "Cấu trúc",
+            "be + past participle",
+            "Dùng V3/ed"
+          ],
+          [
+            "Với modal",
+            "modal + be + V3/ed",
+            "must be, should be..."
+          ],
+          [
+            "Mục đích",
+            "Focus on the action",
+            "Nhấn mạnh đối tượng chịu tác động"
+          ]
+        ],
+        "example": "All documents <strong style=\"color:#6558da\">must be signed</strong> before submission.",
+        "translation": "Tất cả tài liệu phải được ký trước khi nộp.",
+        "tip": "Khi chủ ngữ là vật và động từ là hành động tác động lên vật đó, hãy kiểm tra bị động.",
+        "question": "All invoices must _____ before Friday.",
+        "options": [
+          "process",
+          "be processed",
+          "processed",
+          "processing"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. be processed: sau must, bị động dùng be + V3/ed."
+      },
+      "cases": [
+        {
+          "title": "Bị động hiện tại đơn",
+          "pattern": "am / is / are + V3",
+          "usage": "Quy trình, quy định và thông tin chung.",
+          "examples": [
+            {
+              "en": "Invoices are processed every Friday.",
+              "vi": "Hóa đơn được xử lý vào mỗi thứ Sáu."
+            },
+            {
+              "en": "The office is cleaned daily.",
+              "vi": "Văn phòng được vệ sinh hằng ngày."
+            }
+          ],
+          "tip": "Chia be theo chủ ngữ và thì của câu."
+        },
+        {
+          "title": "Bị động quá khứ đơn",
+          "pattern": "was / were + V3",
+          "usage": "Sự kiện đã được thực hiện trong quá khứ.",
+          "examples": [
+            {
+              "en": "The order was shipped yesterday.",
+              "vi": "Đơn hàng đã được gửi đi hôm qua."
+            },
+            {
+              "en": "The results were announced last night.",
+              "vi": "Kết quả đã được công bố tối qua."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Bị động với will và modal",
+          "pattern": "will / must / should + be + V3",
+          "usage": "Quy định, dự đoán, yêu cầu và khuyến nghị.",
+          "examples": [
+            {
+              "en": "All documents must be signed.",
+              "vi": "Tất cả tài liệu phải được ký."
+            },
+            {
+              "en": "The equipment will be delivered tomorrow.",
+              "vi": "Thiết bị sẽ được giao ngày mai."
+            }
+          ],
+          "tip": "Sau modal luôn dùng be (nguyên mẫu) trước V3."
+        },
+        {
+          "title": "Bị động hiện tại hoàn thành",
+          "pattern": "have / has been + V3",
+          "usage": "Nhấn mạnh kết quả đã hoàn thành tới hiện tại.",
+          "examples": [
+            {
+              "en": "The schedule has been revised.",
+              "vi": "Lịch trình đã được sửa đổi."
+            },
+            {
+              "en": "All payments have been received.",
+              "vi": "Tất cả khoản thanh toán đã được nhận."
+            }
+          ],
+          "tip": "Không nhầm has been + V3 với has been + V-ing."
+        },
+        {
+          "title": "Bị động tiếp diễn",
+          "pattern": "am / is / are being + V3",
+          "usage": "Một hành động đang được thực hiện.",
+          "examples": [
+            {
+              "en": "The lobby is being renovated this week.",
+              "vi": "Sảnh đang được cải tạo tuần này."
+            },
+            {
+              "en": "The applications are being reviewed now.",
+              "vi": "Hồ sơ đang được xem xét lúc này."
+            }
+          ],
+          "tip": "Being là thành phần bắt buộc trong bị động tiếp diễn."
+        },
+        {
+          "title": "Bị động quá khứ hoàn thành",
+          "pattern": "had been + V3",
+          "usage": "Hành động bị động xảy ra trước một mốc quá khứ.",
+          "examples": [
+            {
+              "en": "The room had been booked before we called.",
+              "vi": "Phòng đã được đặt trước khi chúng tôi gọi."
+            },
+            {
+              "en": "The files had been archived by noon.",
+              "vi": "Tệp đã được lưu trữ trước trưa."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Bị động nguyên mẫu và V-ing",
+          "pattern": "to be + V3 / being + V3",
+          "usage": "Sau một số động từ, giới từ và cấu trúc khác.",
+          "examples": [
+            {
+              "en": "The form needs to be completed today.",
+              "vi": "Biểu mẫu cần được hoàn thành hôm nay."
+            },
+            {
+              "en": "He dislikes being interrupted during meetings.",
+              "vi": "Anh ấy không thích bị ngắt lời trong cuộc họp."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Hai tân ngữ và tác nhân by",
+          "pattern": "be + V3 + (by + agent)",
+          "usage": "Một số động từ như give, send cho phép đổi chủ ngữ khác nhau.",
+          "examples": [
+            {
+              "en": "The employees were given new uniforms.",
+              "vi": "Nhân viên được cấp đồng phục mới."
+            },
+            {
+              "en": "New uniforms were given to the employees.",
+              "vi": "Đồng phục mới được phát cho nhân viên."
+            }
+          ],
+          "tip": "Chỉ nêu by + tác nhân khi quan trọng; nhiều câu TOEIC lược bỏ tác nhân."
+        }
+      ],
+      "mistakes": [
+        [
+          "The documents must signed.",
+          "The documents must be signed.",
+          "Bị động sau modal cần be + V3."
+        ],
+        [
+          "The report is preparing now.",
+          "The report is being prepared now.",
+          "Bị động hiện tại tiếp diễn cần being."
+        ]
+      ],
+      "notes": "Bị động làm nổi bật **đối tượng chịu tác động**. Không phải câu có chủ ngữ là vật thì bắt buộc bị động; hãy xét nghĩa của động từ."
+    },
+    {
+      "topic": [
+        "Mệnh đề quan hệ",
+        "Relative Clauses & reductions",
+        "Trung cấp",
+        "🔗",
+        9
+      ],
+      "lesson": {
+        "title": "Relative Clauses: Mệnh đề quan hệ",
+        "sub": "Phân biệt who, whom, which, whose và các cách rút gọn mệnh đề.",
+        "formulas": [
+          [
+            "Người",
+            "who + verb",
+            "Who làm chủ ngữ"
+          ],
+          [
+            "Vật",
+            "which + verb",
+            "Which thay cho vật"
+          ],
+          [
+            "Sở hữu",
+            "whose + noun",
+            "Diễn tả sở hữu"
+          ]
+        ],
+        "example": "The applicant <strong style=\"color:#6558da\">who speaks French</strong> has been shortlisted.",
+        "translation": "Ứng viên biết tiếng Pháp đã được đưa vào danh sách chọn lọc.",
+        "tip": "Nhìn danh từ phía trước chỗ trống: người hay vật? Chỗ trống làm chủ ngữ hay tân ngữ?",
+        "question": "The employee _____ manages the project has been promoted.",
+        "options": [
+          "which",
+          "whom",
+          "whose",
+          "who"
+        ],
+        "correct": 3,
+        "explain": "Đáp án D. who: thay cho “The employee” và làm chủ ngữ của “manages”."
+      },
+      "cases": [
+        {
+          "title": "Who / that làm chủ ngữ",
+          "pattern": "person + who / that + verb",
+          "usage": "Bổ nghĩa cho danh từ chỉ người và đóng vai trò chủ ngữ.",
+          "examples": [
+            {
+              "en": "The employee who manages the budget is away.",
+              "vi": "Nhân viên quản lý ngân sách đang vắng mặt."
+            },
+            {
+              "en": "Applicants who have experience will be contacted.",
+              "vi": "Ứng viên có kinh nghiệm sẽ được liên hệ."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Whom / who / that làm tân ngữ",
+          "pattern": "person + whom / who / that + S + V",
+          "usage": "Đứng ở vị trí tân ngữ trong mệnh đề quan hệ xác định.",
+          "examples": [
+            {
+              "en": "The consultant whom we hired is experienced.",
+              "vi": "Chuyên gia tư vấn mà chúng tôi thuê rất giàu kinh nghiệm."
+            },
+            {
+              "en": "The client who you met yesterday called again.",
+              "vi": "Khách hàng bạn gặp hôm qua lại gọi đến."
+            }
+          ],
+          "tip": "Whom trang trọng hơn; trong mệnh đề xác định có thể lược bỏ đại từ quan hệ làm tân ngữ."
+        },
+        {
+          "title": "Which / that chỉ vật",
+          "pattern": "thing + which / that + clause",
+          "usage": "Miêu tả vật, thiết bị, tài liệu hoặc ý tưởng.",
+          "examples": [
+            {
+              "en": "The printer that arrived today is damaged.",
+              "vi": "Máy in đến hôm nay bị hỏng."
+            },
+            {
+              "en": "The software which we purchased is reliable.",
+              "vi": "Phần mềm chúng tôi mua rất đáng tin cậy."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Whose chỉ sở hữu",
+          "pattern": "noun + whose + noun + clause",
+          "usage": "Có thể dùng với người và tổ chức/vật trong nhiều ngữ cảnh.",
+          "examples": [
+            {
+              "en": "The manager whose team won was promoted.",
+              "vi": "Người quản lý có nhóm chiến thắng đã được thăng chức."
+            },
+            {
+              "en": "We contacted a company whose products are certified.",
+              "vi": "Chúng tôi liên hệ công ty có sản phẩm được chứng nhận."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Where / when / why",
+          "pattern": "place + where / time + when / reason + why",
+          "usage": "Bổ nghĩa cho địa điểm, thời gian hoặc lý do.",
+          "examples": [
+            {
+              "en": "This is the branch where I work.",
+              "vi": "Đây là chi nhánh nơi tôi làm việc."
+            },
+            {
+              "en": "Monday is the day when the report is due.",
+              "vi": "Thứ Hai là ngày đến hạn nộp báo cáo."
+            }
+          ],
+          "tip": "Có thể dùng giới từ + which trong lối viết trang trọng."
+        },
+        {
+          "title": "Mệnh đề xác định và không xác định",
+          "pattern": "noun, which / who + clause,",
+          "usage": "Mệnh đề không xác định thêm thông tin và thường có dấu phẩy.",
+          "examples": [
+            {
+              "en": "Our CEO, who joined in 2021, will speak.",
+              "vi": "Giám đốc điều hành, người gia nhập năm 2021, sẽ phát biểu."
+            },
+            {
+              "en": "The devices that failed inspection were returned.",
+              "vi": "Các thiết bị không đạt kiểm định đã được trả lại."
+            }
+          ],
+          "tip": "Không dùng that trong mệnh đề quan hệ không xác định."
+        },
+        {
+          "title": "Lược bỏ đại từ quan hệ tân ngữ",
+          "pattern": "noun + (that / which / who) + S + V",
+          "usage": "Chỉ lược bỏ khi đại từ làm tân ngữ trong mệnh đề xác định.",
+          "examples": [
+            {
+              "en": "The report (that) you requested is ready.",
+              "vi": "Báo cáo bạn yêu cầu đã sẵn sàng."
+            },
+            {
+              "en": "The candidate (whom) we interviewed accepted.",
+              "vi": "Ứng viên mà chúng tôi phỏng vấn đã chấp nhận."
+            }
+          ],
+          "tip": "Không được bỏ who khi nó là chủ ngữ của mệnh đề."
+        },
+        {
+          "title": "Rút gọn mệnh đề: chủ động và bị động",
+          "pattern": "V-ing / V3 phrase",
+          "usage": "Rút gọn khi danh từ được mô tả là chủ thể hành động hoặc chịu tác động.",
+          "examples": [
+            {
+              "en": "Employees working remotely must sign in.",
+              "vi": "Nhân viên làm việc từ xa phải đăng nhập."
+            },
+            {
+              "en": "Documents submitted late may be rejected.",
+              "vi": "Tài liệu nộp muộn có thể bị từ chối."
+            }
+          ],
+          "tip": "Chủ động thường V-ing, bị động thường V3; lưu ý ý nghĩa và thời."
+        }
+      ],
+      "mistakes": [
+        [
+          "The applicant which called...",
+          "The applicant who called...",
+          "Who dùng cho người khi làm chủ ngữ."
+        ],
+        [
+          "My manager, that joined...",
+          "My manager, who joined...",
+          "Mệnh đề không xác định không dùng that."
+        ]
+      ],
+      "notes": "Đọc cả danh từ đứng trước và **vai trò đại từ trong mệnh đề phụ**. Dấu phẩy quyết định việc có thể dùng that hay không."
+    },
+    {
+      "topic": [
+        "Liên từ & Giới từ",
+        "Conjunctions & Prepositions",
+        "Trung cấp",
+        "🧩",
+        14
+      ],
+      "lesson": {
+        "title": "Although, Despite & However",
+        "sub": "Phân biệt cấu trúc diễn tả sự tương phản, rất hữu ích khi làm Part 5–6.",
+        "formulas": [
+          [
+            "Although",
+            "Although + S + V",
+            "Theo sau là mệnh đề"
+          ],
+          [
+            "Despite",
+            "Despite + noun / V-ing",
+            "Theo sau là cụm danh từ"
+          ],
+          [
+            "However",
+            "However, + S + V",
+            "Trạng từ nối ý, thường có dấu phẩy"
+          ]
+        ],
+        "example": "<strong style=\"color:#6558da\">Despite the heavy rain</strong>, the conference started on time.",
+        "translation": "Mặc dù trời mưa lớn, hội nghị vẫn bắt đầu đúng giờ.",
+        "tip": "Sau chỗ trống là “the heavy rain” — cụm danh từ, không phải mệnh đề có chủ ngữ và động từ.",
+        "question": "_____ the heavy rain, the conference started on time.",
+        "options": [
+          "Although",
+          "Despite",
+          "However",
+          "Because"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. Despite. Phía sau là cụm danh từ “the heavy rain”."
+      },
+      "cases": [
+        {
+          "title": "Although / even though + mệnh đề",
+          "pattern": "Although + S + V, S + V",
+          "usage": "Hai vế tương phản, phía sau liên từ là một mệnh đề.",
+          "examples": [
+            {
+              "en": "Although sales fell, profits remained stable.",
+              "vi": "Mặc dù doanh số giảm, lợi nhuận vẫn ổn định."
+            },
+            {
+              "en": "Even though the room was small, it was comfortable.",
+              "vi": "Dù phòng nhỏ, nó vẫn thoải mái."
+            }
+          ],
+          "tip": "Không dùng although và but để nối cùng một cặp mệnh đề theo cấu trúc thông thường."
+        },
+        {
+          "title": "Despite / in spite of + danh từ / V-ing",
+          "pattern": "Despite + noun / V-ing",
+          "usage": "Theo sau là danh từ/cụm danh từ hoặc V-ing, không phải một mệnh đề đơn thuần.",
+          "examples": [
+            {
+              "en": "Despite the rain, the event continued.",
+              "vi": "Mặc dù trời mưa, sự kiện vẫn tiếp tục."
+            },
+            {
+              "en": "In spite of arriving late, he joined the session.",
+              "vi": "Dù đến muộn, anh ấy vẫn tham gia buổi học."
+            }
+          ],
+          "tip": "Có thể dùng despite the fact that + S + V."
+        },
+        {
+          "title": "However / nevertheless — nối hai câu",
+          "pattern": "Sentence. However, sentence.",
+          "usage": "Là trạng từ liên kết, không thay thế liên từ mặc dù trong mọi cấu trúc.",
+          "examples": [
+            {
+              "en": "The price was high. However, demand increased.",
+              "vi": "Giá cao. Tuy nhiên, nhu cầu vẫn tăng."
+            },
+            {
+              "en": "The deadline was tight; nevertheless, we finished.",
+              "vi": "Hạn chót gấp; tuy thế, chúng tôi hoàn thành."
+            }
+          ],
+          "tip": "Dùng dấu câu phù hợp: dấu chấm hoặc chấm phẩy trước however ở cách dùng này."
+        },
+        {
+          "title": "Because / because of",
+          "pattern": "because + S + V / because of + noun",
+          "usage": "Chọn theo loại thành phần đứng sau.",
+          "examples": [
+            {
+              "en": "The shipment was late because traffic was heavy.",
+              "vi": "Lô hàng trễ vì giao thông đông đúc."
+            },
+            {
+              "en": "The shipment was late because of heavy traffic.",
+              "vi": "Lô hàng trễ do tình trạng giao thông đông đúc."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Therefore / consequently — kết quả",
+          "pattern": "Sentence. Therefore, sentence.",
+          "usage": "Diễn đạt kết quả logic từ thông tin trước.",
+          "examples": [
+            {
+              "en": "Costs rose. Therefore, prices were adjusted.",
+              "vi": "Chi phí tăng. Vì thế, giá đã được điều chỉnh."
+            },
+            {
+              "en": "The server failed; consequently, service stopped.",
+              "vi": "Máy chủ lỗi; do đó, dịch vụ ngừng."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "While / whereas — so sánh đối lập",
+          "pattern": "While / Whereas + clause, clause",
+          "usage": "Đặt hai thực tế đối lập cạnh nhau.",
+          "examples": [
+            {
+              "en": "While sales grew online, store traffic declined.",
+              "vi": "Trong khi doanh số trực tuyến tăng, lượng khách tại cửa hàng giảm."
+            },
+            {
+              "en": "The first model is light, whereas the second is durable.",
+              "vi": "Mẫu đầu nhẹ còn mẫu thứ hai bền."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Unless / provided that",
+          "pattern": "unless + clause / provided that + clause",
+          "usage": "Unless = nếu không; provided that = miễn là.",
+          "examples": [
+            {
+              "en": "You cannot enter unless you have a badge.",
+              "vi": "Bạn không thể vào nếu không có thẻ."
+            },
+            {
+              "en": "The discount applies provided that you order ten units.",
+              "vi": "Giảm giá áp dụng miễn là bạn đặt mười sản phẩm."
+            }
+          ],
+          "tip": "Tránh phủ định kép không cần thiết sau unless."
+        },
+        {
+          "title": "So that / in order that — mục đích",
+          "pattern": "so that + S + can / could + V",
+          "usage": "Nêu mục đích và khả năng đạt được mục đích.",
+          "examples": [
+            {
+              "en": "We sent a reminder so that everyone could attend.",
+              "vi": "Chúng tôi gửi nhắc nhở để mọi người có thể tham dự."
+            },
+            {
+              "en": "Please speak slowly so that customers can understand.",
+              "vi": "Vui lòng nói chậm để khách hàng có thể hiểu."
+            }
+          ],
+          "tip": ""
+        }
+      ],
+      "mistakes": [
+        [
+          "Although the rain, ...",
+          "Despite the rain, ...",
+          "Despite đi trước cụm danh từ, although đi trước mệnh đề."
+        ],
+        [
+          "Because of traffic was heavy...",
+          "Because traffic was heavy...",
+          "Because of không trực tiếp đứng trước mệnh đề hoàn chỉnh."
+        ]
+      ],
+      "notes": "Chú ý **loại từ/cụm từ đứng sau chỗ trống** cùng quan hệ ý nghĩa: tương phản, lý do, kết quả, điều kiện hay mục đích."
+    },
+    {
+      "topic": [
+        "Câu điều kiện",
+        "Conditionals & Mixed Conditionals",
+        "Nâng cao",
+        "⚡",
+        7
+      ],
+      "lesson": {
+        "title": "Conditionals: Câu điều kiện",
+        "sub": "Nắm chắc câu điều kiện loại 1, 2, 3 và giả định trái thực tế.",
+        "formulas": [
+          [
+            "Type 1",
+            "If + present, will + V",
+            "Điều có thể xảy ra"
+          ],
+          [
+            "Type 2",
+            "If + past, would + V",
+            "Giả định hiện tại"
+          ],
+          [
+            "Type 3",
+            "If + had V3, would have V3",
+            "Giả định ngược quá khứ"
+          ]
+        ],
+        "example": "If we <strong style=\"color:#6558da\">had known</strong>, we <strong style=\"color:#6558da\">would have acted</strong> sooner.",
+        "translation": "Nếu chúng tôi biết trước thì đã hành động sớm hơn.",
+        "tip": "If + had + V3 thường đi với would have + V3 trong câu điều kiện loại 3.",
+        "question": "If we had received the order earlier, we _____ it yesterday.",
+        "options": [
+          "ship",
+          "will ship",
+          "would have shipped",
+          "shipped"
+        ],
+        "correct": 2,
+        "explain": "Đáp án C. would have shipped: mệnh đề giả định trong quá khứ."
+      },
+      "cases": [
+        {
+          "title": "Zero Conditional — quy luật",
+          "pattern": "If + present, present",
+          "usage": "Sự thật chung hoặc kết quả lặp lại.",
+          "examples": [
+            {
+              "en": "If you heat water, it evaporates.",
+              "vi": "Nếu đun nước, nó bay hơi."
+            },
+            {
+              "en": "If staff arrive late, the system records it.",
+              "vi": "Nếu nhân viên đến muộn, hệ thống ghi nhận."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "First Conditional — tương lai có thể xảy ra",
+          "pattern": "If + present, will + V",
+          "usage": "Một điều kiện có khả năng thực tế trong tương lai.",
+          "examples": [
+            {
+              "en": "If we receive the payment, we will ship today.",
+              "vi": "Nếu nhận thanh toán, chúng tôi sẽ gửi hàng hôm nay."
+            },
+            {
+              "en": "If the weather improves, the tour will depart.",
+              "vi": "Nếu thời tiết cải thiện, chuyến tham quan sẽ khởi hành."
+            }
+          ],
+          "tip": "Sau if thường dùng hiện tại đơn, không dùng will."
+        },
+        {
+          "title": "Second Conditional — giả định hiện tại",
+          "pattern": "If + past, would + V",
+          "usage": "Giả định khó xảy ra hoặc trái thực tế hiện tại.",
+          "examples": [
+            {
+              "en": "If I had more time, I would review the contract.",
+              "vi": "Nếu có thêm thời gian, tôi sẽ xem lại hợp đồng."
+            },
+            {
+              "en": "If I were the manager, I would approve it.",
+              "vi": "Nếu là người quản lý, tôi sẽ phê duyệt."
+            }
+          ],
+          "tip": "Were thường được dùng trong tình huống giả định trang trọng."
+        },
+        {
+          "title": "Third Conditional — giả định quá khứ",
+          "pattern": "If + had + V3, would have + V3",
+          "usage": "Nói một kết quả đã không xảy ra trong quá khứ.",
+          "examples": [
+            {
+              "en": "If we had ordered earlier, we would have saved money.",
+              "vi": "Nếu đặt sớm hơn, chúng tôi đã tiết kiệm được tiền."
+            },
+            {
+              "en": "If she had called, I would have answered.",
+              "vi": "Nếu cô ấy gọi, tôi đã trả lời."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Mixed Conditional — quá khứ ảnh hưởng hiện tại",
+          "pattern": "If + had V3, would + V",
+          "usage": "Nguyên nhân không có thật trong quá khứ, kết quả giả định ở hiện tại.",
+          "examples": [
+            {
+              "en": "If we had invested earlier, our capacity would be higher now.",
+              "vi": "Nếu đầu tư sớm hơn, năng lực hiện tại đã cao hơn."
+            },
+            {
+              "en": "If he had accepted the offer, he would work here now.",
+              "vi": "Nếu anh ấy nhận lời, giờ anh ấy đã làm việc ở đây."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Mixed Conditional — hiện tại ảnh hưởng quá khứ",
+          "pattern": "If + past, would have + V3",
+          "usage": "Tình trạng giả định hiện tại khiến một hành động quá khứ khác đi.",
+          "examples": [
+            {
+              "en": "If she spoke French, she would have handled that call.",
+              "vi": "Nếu cô ấy biết tiếng Pháp, cô ấy đã xử lý cuộc gọi đó."
+            },
+            {
+              "en": "If I were more organized, I would have met the deadline.",
+              "vi": "Nếu ngăn nắp hơn, tôi đã kịp hạn."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Unless / as long as / provided that",
+          "pattern": "Unless + clause / As long as + clause",
+          "usage": "Thay điều kiện phủ định và điều kiện ràng buộc.",
+          "examples": [
+            {
+              "en": "We will proceed unless the client objects.",
+              "vi": "Chúng tôi sẽ tiếp tục trừ khi khách hàng phản đối."
+            },
+            {
+              "en": "You can join as long as you register first.",
+              "vi": "Bạn có thể tham gia miễn là đăng ký trước."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Đảo ngữ điều kiện trang trọng",
+          "pattern": "Had + S + V3, ... / Were + S + ...",
+          "usage": "Bỏ if và đảo ngữ trong văn viết trang trọng.",
+          "examples": [
+            {
+              "en": "Had we known, we would have prepared earlier.",
+              "vi": "Nếu biết, chúng tôi đã chuẩn bị sớm hơn."
+            },
+            {
+              "en": "Were I in your position, I would reconsider.",
+              "vi": "Nếu ở vị trí của bạn, tôi sẽ cân nhắc lại."
+            }
+          ],
+          "tip": "Không áp dụng đảo ngữ tùy ý cho mọi loại câu if."
+        }
+      ],
+      "mistakes": [
+        [
+          "If I will see her, I will tell her.",
+          "If I see her, I will tell her.",
+          "Mệnh đề if loại 1 thường dùng hiện tại đơn."
+        ],
+        [
+          "If I had known, I would call.",
+          "If I had known, I would have called.",
+          "Giả định quá khứ chuẩn dùng would have + V3."
+        ]
+      ],
+      "notes": "Hãy xác định **điều kiện thực tế hay giả định** và mốc thời gian của từng mệnh đề trước khi chọn động từ."
+    },
+    {
+      "topic": [
+        "So sánh & Số lượng",
+        "Comparisons & Quantifiers",
+        "Cơ bản",
+        "⚖️",
+        9
+      ],
+      "lesson": {
+        "title": "Comparatives: Câu so sánh",
+        "sub": "So sánh hơn, nhất và các cấu trúc thường gặp trong mô tả sản phẩm.",
+        "formulas": [
+          [
+            "Tính từ ngắn",
+            "adj-er + than",
+            "fast → faster"
+          ],
+          [
+            "Tính từ dài",
+            "more + adj + than",
+            "efficient → more efficient"
+          ],
+          [
+            "So sánh nhất",
+            "the most + adj",
+            "the most suitable"
+          ]
+        ],
+        "example": "This system is <strong style=\"color:#6558da\">more efficient</strong> than the previous one.",
+        "translation": "Hệ thống này hiệu quả hơn hệ thống trước.",
+        "tip": "Efficient là tính từ dài, dùng more efficient thay vì efficienter.",
+        "question": "This printer is _____ than the previous model.",
+        "options": [
+          "efficient",
+          "more efficient",
+          "most efficient",
+          "efficiently"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. more efficient: cấu trúc so sánh hơn với tính từ dài và “than”."
+      },
+      "cases": [
+        {
+          "title": "So sánh hơn",
+          "pattern": "adj-er / more + adj + than",
+          "usage": "So sánh hai người/vật hoặc hai trạng thái.",
+          "examples": [
+            {
+              "en": "This model is lighter than the previous one.",
+              "vi": "Mẫu này nhẹ hơn mẫu trước."
+            },
+            {
+              "en": "The new process is more efficient than the old one.",
+              "vi": "Quy trình mới hiệu quả hơn quy trình cũ."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "So sánh nhất",
+          "pattern": "the -est / the most + adj",
+          "usage": "So sánh với toàn bộ nhóm gồm từ ba đối tượng trở lên.",
+          "examples": [
+            {
+              "en": "It is the fastest printer in the office.",
+              "vi": "Đây là máy in nhanh nhất văn phòng."
+            },
+            {
+              "en": "She proposed the most practical solution.",
+              "vi": "Cô ấy đề xuất giải pháp thiết thực nhất."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "So sánh bằng",
+          "pattern": "as + adj / adv + as",
+          "usage": "Hai đối tượng bằng nhau ở một đặc tính.",
+          "examples": [
+            {
+              "en": "This device is as reliable as that one.",
+              "vi": "Thiết bị này đáng tin cậy như thiết bị kia."
+            },
+            {
+              "en": "She works as efficiently as her colleague.",
+              "vi": "Cô ấy làm việc hiệu quả như đồng nghiệp."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "So sánh kém",
+          "pattern": "less + adj / adv + than",
+          "usage": "Một tính chất ít hơn so với đối tượng khác.",
+          "examples": [
+            {
+              "en": "The revised plan is less expensive.",
+              "vi": "Kế hoạch sửa đổi ít tốn kém hơn."
+            },
+            {
+              "en": "This approach is less practical than the first.",
+              "vi": "Cách tiếp cận này kém thực tế hơn cách đầu."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Càng... càng...",
+          "pattern": "The + comparative, the + comparative",
+          "usage": "Hai biến số cùng thay đổi tương ứng.",
+          "examples": [
+            {
+              "en": "The earlier you book, the cheaper the fare.",
+              "vi": "Bạn đặt càng sớm, giá vé càng rẻ."
+            },
+            {
+              "en": "The more you practice, the faster you read.",
+              "vi": "Bạn luyện càng nhiều, bạn đọc càng nhanh."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Too / enough",
+          "pattern": "too + adj + to V / adj + enough + to V",
+          "usage": "Diễn đạt vượt quá mức hoặc đủ khả năng.",
+          "examples": [
+            {
+              "en": "The box is too heavy to lift alone.",
+              "vi": "Thùng quá nặng để nâng một mình."
+            },
+            {
+              "en": "The room is large enough for sixty people.",
+              "vi": "Phòng đủ lớn cho sáu mươi người."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Much / many / a lot of",
+          "pattern": "much + uncountable / many + plural",
+          "usage": "Chọn lượng từ phù hợp danh từ đếm được và không đếm được.",
+          "examples": [
+            {
+              "en": "We do not have much information yet.",
+              "vi": "Chúng tôi chưa có nhiều thông tin."
+            },
+            {
+              "en": "Many customers requested a refund.",
+              "vi": "Nhiều khách hàng yêu cầu hoàn tiền."
+            }
+          ],
+          "tip": "Information, equipment và advice thường không đếm được."
+        },
+        {
+          "title": "Few / a few / little / a little",
+          "pattern": "(a) few + plural / (a) little + uncountable",
+          "usage": "Có a thường mang nghĩa vẫn còn một ít, không có a nhấn mạnh gần như không có.",
+          "examples": [
+            {
+              "en": "We have a few options available.",
+              "vi": "Chúng tôi vẫn còn vài lựa chọn."
+            },
+            {
+              "en": "There is little time to revise the proposal.",
+              "vi": "Hầu như không còn thời gian sửa đề xuất."
+            }
+          ],
+          "tip": ""
+        }
+      ],
+      "mistakes": [
+        [
+          "more faster",
+          "faster",
+          "Tránh so sánh kép."
+        ],
+        [
+          "many information",
+          "much information",
+          "Information không đếm được."
+        ]
+      ],
+      "notes": "Đối chiếu **số lượng đối tượng**, tính từ ngắn/dài, danh từ đếm được/không đếm được và mức độ phủ định."
+    },
+    {
+      "topic": [
+        "Động từ & Modal Verbs",
+        "Gerund, Infinitive, Modals",
+        "Trung cấp",
+        "📘",
+        10
+      ],
+      "lesson": {
+        "title": "Gerund, Infinitive & Modal Verbs",
+        "sub": "Hiểu khi nào dùng to + V, V-ing và động từ nguyên mẫu.",
+        "formulas": [
+          [
+            "Infinitive",
+            "require + O + to V",
+            "Yêu cầu ai làm gì"
+          ],
+          [
+            "Gerund",
+            "avoid + V-ing",
+            "Tránh làm việc gì"
+          ],
+          [
+            "Modal",
+            "must + V",
+            "Không dùng to sau modal"
+          ]
+        ],
+        "example": "The company requires employees <strong style=\"color:#6558da\">to attend</strong> the seminar.",
+        "translation": "Công ty yêu cầu nhân viên tham dự buổi hội thảo.",
+        "tip": "Phân biệt require + người + to V và require + V-ing trong các ngữ cảnh khác nhau.",
+        "question": "All employees are required _____ safety training.",
+        "options": [
+          "complete",
+          "completing",
+          "to complete",
+          "completed"
+        ],
+        "correct": 2,
+        "explain": "Đáp án C. to complete: cấu trúc bị động “be required to + V”."
+      },
+      "cases": [
+        {
+          "title": "Động từ theo sau bởi to-infinitive",
+          "pattern": "decide / plan / hope + to V",
+          "usage": "Một số động từ yêu cầu to + nguyên mẫu.",
+          "examples": [
+            {
+              "en": "We plan to launch the service in June.",
+              "vi": "Chúng tôi dự định ra mắt dịch vụ vào tháng Sáu."
+            },
+            {
+              "en": "The manager agreed to extend the deadline.",
+              "vi": "Người quản lý đồng ý gia hạn hạn chót."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Động từ theo sau bởi V-ing",
+          "pattern": "avoid / consider / finish + V-ing",
+          "usage": "Nhớ nhóm động từ theo sau bởi danh động từ.",
+          "examples": [
+            {
+              "en": "Please avoid sharing confidential data.",
+              "vi": "Vui lòng tránh chia sẻ dữ liệu mật."
+            },
+            {
+              "en": "They are considering opening a new branch.",
+              "vi": "Họ đang cân nhắc mở chi nhánh mới."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Verb + object + to-infinitive",
+          "pattern": "ask / require / encourage + O + to V",
+          "usage": "Có tân ngữ chỉ người/vật giữa động từ và to V.",
+          "examples": [
+            {
+              "en": "The company requires staff to wear badges.",
+              "vi": "Công ty yêu cầu nhân viên đeo thẻ."
+            },
+            {
+              "en": "She encouraged us to apply early.",
+              "vi": "Cô ấy khuyến khích chúng tôi nộp đơn sớm."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Stop / remember + to V hoặc V-ing",
+          "pattern": "stop doing / stop to do",
+          "usage": "Ý nghĩa đổi theo dạng theo sau.",
+          "examples": [
+            {
+              "en": "Please remember to attach the document.",
+              "vi": "Hãy nhớ đính kèm tài liệu."
+            },
+            {
+              "en": "I remember meeting the director last year.",
+              "vi": "Tôi nhớ đã gặp giám đốc năm ngoái."
+            }
+          ],
+          "tip": "Remember to do = nhớ phải làm; remember doing = nhớ đã làm."
+        },
+        {
+          "title": "Make / let / have / get",
+          "pattern": "make / let + O + V; get + O + to V",
+          "usage": "Cấu trúc sai khiến có động từ nguyên mẫu hoặc to V tùy động từ.",
+          "examples": [
+            {
+              "en": "The manager made us revise the report.",
+              "vi": "Quản lý yêu cầu chúng tôi sửa báo cáo."
+            },
+            {
+              "en": "We got the technician to check the system.",
+              "vi": "Chúng tôi nhờ kỹ thuật viên kiểm tra hệ thống."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Modal bắt buộc và lời khuyên",
+          "pattern": "must / have to / should + V",
+          "usage": "Thể hiện nghĩa vụ, yêu cầu hoặc khuyến nghị.",
+          "examples": [
+            {
+              "en": "Visitors must sign in on arrival.",
+              "vi": "Khách phải đăng ký khi đến."
+            },
+            {
+              "en": "You should back up your files regularly.",
+              "vi": "Bạn nên sao lưu tệp thường xuyên."
+            }
+          ],
+          "tip": "Must not = cấm; do not have to = không bắt buộc."
+        },
+        {
+          "title": "Modal khả năng và suy đoán",
+          "pattern": "can / may / might / must + V",
+          "usage": "Khả năng, sự cho phép hoặc mức độ chắc chắn.",
+          "examples": [
+            {
+              "en": "The delay may affect delivery times.",
+              "vi": "Sự chậm trễ có thể ảnh hưởng thời gian giao."
+            },
+            {
+              "en": "She must be busy because her calendar is full.",
+              "vi": "Cô ấy hẳn đang bận vì lịch kín."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Modal + have + V3",
+          "pattern": "should / could / might have + V3",
+          "usage": "Đánh giá hành động đã qua hoặc suy đoán về quá khứ.",
+          "examples": [
+            {
+              "en": "We should have checked the figures.",
+              "vi": "Lẽ ra chúng tôi nên kiểm tra số liệu."
+            },
+            {
+              "en": "The package might have arrived yesterday.",
+              "vi": "Gói hàng có thể đã đến hôm qua."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Used to và be used to",
+          "pattern": "used to + V / be used to + V-ing",
+          "usage": "Thói quen cũ khác với sự quen thuộc hiện tại.",
+          "examples": [
+            {
+              "en": "I used to work in the sales department.",
+              "vi": "Tôi từng làm ở phòng kinh doanh."
+            },
+            {
+              "en": "She is used to handling tight deadlines.",
+              "vi": "Cô ấy đã quen xử lý những hạn chót gấp."
+            }
+          ],
+          "tip": ""
+        }
+      ],
+      "mistakes": [
+        [
+          "She suggested to postpone.",
+          "She suggested postponing.",
+          "Suggest thường dùng V-ing hoặc that-clause."
+        ],
+        [
+          "must to submit",
+          "must submit",
+          "Sau modal dùng nguyên mẫu không to."
+        ]
+      ],
+      "notes": "Không chỉ học danh sách động từ: nhiều cấu trúc cần **tân ngữ**, một số dạng V-ing / to-V làm thay đổi nghĩa."
+    },
+    {
+      "topic": [
+        "Cấu trúc nâng cao",
+        "Inversion, Subjunctive & more",
+        "Nâng cao",
+        "✨",
+        11
+      ],
+      "lesson": {
+        "title": "Inversion: Đảo ngữ nâng cao",
+        "sub": "Nhận diện đảo trợ động từ trong các cấu trúc nhấn mạnh trang trọng.",
+        "formulas": [
+          [
+            "Not only",
+            "Not only + aux + S + V",
+            "Đảo ngữ vế đầu"
+          ],
+          [
+            "Never",
+            "Never + aux + S + V",
+            "Trạng từ phủ định đầu câu"
+          ],
+          [
+            "Rarely",
+            "Rarely + aux + S + V",
+            "Nhấn mạnh sự hiếm khi"
+          ]
+        ],
+        "example": "Not only <strong style=\"color:#6558da\">did she finish</strong> on time, but she also improved quality.",
+        "translation": "Cô ấy không chỉ hoàn thành đúng hạn mà còn nâng cao chất lượng.",
+        "tip": "Not only đứng đầu mệnh đề sẽ gây đảo ngữ; thì quá khứ đơn dùng did + S + V nguyên mẫu.",
+        "question": "Not only _____ the project on time, but she also reduced costs.",
+        "options": [
+          "she completed",
+          "did she complete",
+          "she had completed",
+          "she has completed"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. did she complete: đảo trợ động từ did trước chủ ngữ sau “Not only”."
+      },
+      "cases": [
+        {
+          "title": "Not only ... but also — đảo ngữ",
+          "pattern": "Not only + auxiliary + S + V, but S also V",
+          "usage": "Nếu Not only đứng đầu mệnh đề, đảo trợ động từ.",
+          "examples": [
+            {
+              "en": "Not only did sales rise, but costs also fell.",
+              "vi": "Không chỉ doanh thu tăng mà chi phí còn giảm."
+            },
+            {
+              "en": "Not only is the device compact, but it is also durable.",
+              "vi": "Thiết bị không chỉ gọn mà còn bền."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Never / rarely / seldom đầu câu",
+          "pattern": "Negative adverb + auxiliary + S + V",
+          "usage": "Trạng từ mang nghĩa phủ định đứng đầu làm đảo ngữ.",
+          "examples": [
+            {
+              "en": "Never have we received such a request.",
+              "vi": "Chúng tôi chưa từng nhận yêu cầu như vậy."
+            },
+            {
+              "en": "Rarely does the store close early.",
+              "vi": "Cửa hàng hiếm khi đóng sớm."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Only after / only when / only then",
+          "pattern": "Only + adverbial + auxiliary + S + V",
+          "usage": "Đảo ngữ ở mệnh đề chính sau trạng ngữ Only.",
+          "examples": [
+            {
+              "en": "Only after the audit did we notice the error.",
+              "vi": "Chỉ sau kiểm toán chúng tôi mới thấy lỗi."
+            },
+            {
+              "en": "Only then did the staff understand the policy.",
+              "vi": "Chỉ khi đó nhân viên mới hiểu chính sách."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "No sooner ... than / hardly ... when",
+          "pattern": "No sooner had + S + V3 + than ...",
+          "usage": "Hai hành động gần như kế tiếp trong quá khứ.",
+          "examples": [
+            {
+              "en": "No sooner had we arrived than the meeting began.",
+              "vi": "Chúng tôi vừa đến thì cuộc họp bắt đầu."
+            },
+            {
+              "en": "Hardly had she sat down when the phone rang.",
+              "vi": "Cô ấy vừa ngồi xuống thì điện thoại reo."
+            }
+          ],
+          "tip": "No sooner đi với than; hardly/scarcely thường đi với when."
+        },
+        {
+          "title": "Giả định với suggest / recommend / insist",
+          "pattern": "S + suggest that + S + (should) + base verb",
+          "usage": "Trong văn viết trang trọng, động từ ở mệnh đề that giữ dạng nguyên mẫu.",
+          "examples": [
+            {
+              "en": "The committee recommended that he attend the session.",
+              "vi": "Ủy ban đề nghị anh ấy tham dự buổi học."
+            },
+            {
+              "en": "It is essential that every form be signed.",
+              "vi": "Điều thiết yếu là mọi biểu mẫu phải được ký."
+            }
+          ],
+          "tip": "Không thêm -s ở động từ ngôi thứ ba trong cấu trúc giả định này."
+        },
+        {
+          "title": "Parallel structure — cấu trúc song song",
+          "pattern": "A, B, and C cùng loại ngữ pháp",
+          "usage": "Các thành phần liệt kê cần thống nhất hình thức.",
+          "examples": [
+            {
+              "en": "The job involves planning, organizing, and reporting.",
+              "vi": "Công việc gồm lập kế hoạch, tổ chức và báo cáo."
+            },
+            {
+              "en": "The software is reliable, secure, and easy to use.",
+              "vi": "Phần mềm đáng tin, an toàn và dễ dùng."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Câu nhấn mạnh cleft sentence",
+          "pattern": "It is / was + focus + that / who + clause",
+          "usage": "Làm nổi bật đối tượng, thời gian hoặc địa điểm.",
+          "examples": [
+            {
+              "en": "It was the manager who approved the budget.",
+              "vi": "Chính người quản lý đã phê duyệt ngân sách."
+            },
+            {
+              "en": "It is on Friday that the report is due.",
+              "vi": "Chính thứ Sáu là hạn nộp báo cáo."
+            }
+          ],
+          "tip": ""
+        },
+        {
+          "title": "Rút gọn mệnh đề phân từ",
+          "pattern": "V-ing / V3, main clause",
+          "usage": "Rút gọn mệnh đề để diễn đạt trang trọng, ngắn gọn.",
+          "examples": [
+            {
+              "en": "Having reviewed the report, she signed it.",
+              "vi": "Sau khi xem báo cáo, cô ấy ký."
+            },
+            {
+              "en": "Designed for small teams, the tool is affordable.",
+              "vi": "Được thiết kế cho nhóm nhỏ, công cụ có giá phải chăng."
+            }
+          ],
+          "tip": "Chủ ngữ ngầm của phân từ phải khớp với chủ ngữ mệnh đề chính để tránh dangling modifier."
+        }
+      ],
+      "mistakes": [
+        [
+          "Never I have seen this.",
+          "Never have I seen this.",
+          "Trạng từ phủ định đầu câu làm đảo trợ động từ."
+        ],
+        [
+          "The role requires planning, to organize, and reporting.",
+          "The role requires planning, organizing, and reporting.",
+          "Danh sách song song cùng hình thức."
+        ]
+      ],
+      "notes": "Những cấu trúc trang trọng dễ xuất hiện trong thông báo, email và bài đọc. Hãy đọc cấu trúc đầy đủ, không chỉ nhận diện từ khóa."
+    },
+    {
+      "topic": [
+        "Thì hiện tại đơn — chuyên sâu",
+        "Present Simple · đầy đủ các cách dùng chính",
+        "Cơ bản",
+        "📙",
+        14
+      ],
+      "lesson": {
+        "title": "Thì hiện tại đơn — Present Simple: Bài học chuyên sâu",
+        "sub": "14 trường hợp sử dụng từ cơ bản đến nâng cao, cấu trúc be / động từ thường và ví dụ song ngữ theo ngữ cảnh.",
+        "formulas": [
+          [
+            "Khẳng định: động từ thường",
+            "I/you/we/they + V; he/she/it + V(s/es)",
+            "He checks invoices. / They check invoices."
+          ],
+          [
+            "Phủ định: động từ thường",
+            "do not / does not + V",
+            "She does not work on Sunday."
+          ],
+          [
+            "Câu hỏi: động từ thường",
+            "Do / Does + S + V ...?",
+            "Does the branch open at 9?"
+          ],
+          [
+            "Động từ be",
+            "am / is / are",
+            "The office is open."
+          ],
+          [
+            "Phủ định với be",
+            "am not / is not / are not",
+            "The documents are not ready."
+          ],
+          [
+            "Nghi vấn với be",
+            "Am / Is / Are + S ...?",
+            "Are the documents ready?"
+          ],
+          [
+            "Quy tắc ngôi 3 số ít",
+            "-s / -es / -ies; have → has",
+            "watch → watches; study → studies"
+          ],
+          [
+            "Trạng từ tần suất",
+            "before V; after be",
+            "often arrive / is often late"
+          ]
+        ],
+        "example": "The finance department <strong style=\"color:#6558da\">reviews</strong> requests every morning.",
+        "translation": "Bộ phận tài chính xem xét các yêu cầu vào mỗi buổi sáng.",
+        "tip": "Đọc dấu hiệu ngữ cảnh trước khi quyết định thì. Dùng do/does với động từ thường, còn am/is/are tự tạo câu hỏi và phủ định.",
+        "question": "The conference _____ at 9 a.m. next Friday according to the official schedule.",
+        "options": [
+          "start",
+          "starts",
+          "is starting always",
+          "started"
+        ],
+        "correct": 1,
+        "explain": "Đáp án B. starts: lịch trình chính thức trong tương lai có thể dùng Present Simple; chủ ngữ conference là ngôi thứ ba số ít."
+      },
+      "cases": [
+        {
+          "title": "Thói quen và hành động lặp lại",
+          "pattern": "S + V(s/es) + adverbial of frequency",
+          "usage": "Dùng cho việc lặp lại hằng ngày, hằng tuần hay theo chu kỳ. Tần suất có thể nêu rõ hoặc được hiểu từ ngữ cảnh.",
+          "examples": [
+            {
+              "en": "She reviews the sales figures every Monday.",
+              "vi": "Cô ấy xem lại số liệu bán hàng vào mỗi thứ Hai."
+            },
+            {
+              "en": "Our team usually meets after lunch.",
+              "vi": "Nhóm chúng tôi thường họp sau bữa trưa."
+            }
+          ],
+          "tip": "Always, usually, often, sometimes thường đứng trước động từ thường nhưng sau động từ be."
+        },
+        {
+          "title": "Sự thật hiển nhiên và quy luật",
+          "pattern": "S + V(s/es)",
+          "usage": "Dùng cho điều luôn hoặc thường đúng theo quy luật tự nhiên, kiến thức phổ quát hay đặc điểm mang tính tổng quát.",
+          "examples": [
+            {
+              "en": "Water boils at about 100°C at sea level.",
+              "vi": "Nước sôi ở khoảng 100°C tại mực nước biển."
+            },
+            {
+              "en": "A square has four equal sides.",
+              "vi": "Hình vuông có bốn cạnh bằng nhau."
+            }
+          ],
+          "tip": "Đừng nhầm sự thật mang tính tổng quát với một sự việc chỉ đang xảy ra tại thời điểm nói."
+        },
+        {
+          "title": "Trạng thái và tình huống tương đối ổn định",
+          "pattern": "S + be / live / work / belong / ...",
+          "usage": "Diễn tả việc người nói xem là trạng thái bình thường hoặc lâu dài ở thời điểm hiện tại; không có nghĩa sẽ tồn tại mãi mãi.",
+          "examples": [
+            {
+              "en": "The company operates three branches in Vietnam.",
+              "vi": "Công ty vận hành ba chi nhánh tại Việt Nam."
+            },
+            {
+              "en": "Mina works in the accounting department.",
+              "vi": "Mina làm việc ở phòng kế toán."
+            }
+          ],
+          "tip": "Compare: She works here (công việc thường xuyên) với She is working here this month (tạm thời)."
+        },
+        {
+          "title": "Trạng thái tâm lý, cảm nhận và sở hữu",
+          "pattern": "S + know / believe / like / own / seem / ...",
+          "usage": "Động từ trạng thái thường dùng dạng đơn để diễn tả hiểu biết, mong muốn, cảm xúc, quyền sở hữu hoặc sự cảm nhận ngay lúc nói.",
+          "examples": [
+            {
+              "en": "I understand your concern about the delivery.",
+              "vi": "Tôi hiểu mối lo của bạn về việc giao hàng."
+            },
+            {
+              "en": "This soup tastes delicious.",
+              "vi": "Món súp này có vị rất ngon."
+            }
+          ],
+          "tip": "Một động từ có thể đổi nghĩa giữa trạng thái và hành động: I have a laptop; I am having lunch."
+        },
+        {
+          "title": "Lịch trình và thời gian biểu cố định trong tương lai",
+          "pattern": "S + V(s/es) + future time expression",
+          "usage": "Dùng cho lịch tàu xe, chuyến bay, giờ mở cửa, khóa học, sự kiện đã được lên thời gian biểu.",
+          "examples": [
+            {
+              "en": "The flight departs at 6:45 tomorrow morning.",
+              "vi": "Chuyến bay khởi hành lúc 6 giờ 45 sáng mai."
+            },
+            {
+              "en": "The orientation session starts next Monday.",
+              "vi": "Buổi định hướng bắt đầu vào thứ Hai tuần tới."
+            }
+          ],
+          "tip": "Phân biệt lịch cố định với quyết định tức thời hoặc dự đoán: will thường phù hợp cho những nghĩa đó."
+        },
+        {
+          "title": "Mệnh đề thời gian hướng tới tương lai",
+          "pattern": "when / before / after / as soon as / until + S + V(s/es)",
+          "usage": "Khi mệnh đề phụ nói về thời điểm tương lai trong câu có mệnh đề chính tương lai, thường dùng hiện tại đơn ở mệnh đề phụ.",
+          "examples": [
+            {
+              "en": "I will email the invoice when the meeting ends.",
+              "vi": "Tôi sẽ gửi email hóa đơn khi cuộc họp kết thúc."
+            },
+            {
+              "en": "Please check the address before you submit the form.",
+              "vi": "Vui lòng kiểm tra địa chỉ trước khi bạn gửi biểu mẫu."
+            }
+          ],
+          "tip": "Không viết *when the meeting will end* trong loại mệnh đề thời gian này; when ở câu hỏi gián tiếp có thể khác."
+        },
+        {
+          "title": "Điều kiện có khả năng xảy ra trong tương lai",
+          "pattern": "If / unless + S + V(s/es), S + will / can / may + V",
+          "usage": "Trong câu điều kiện thực (thường gọi loại 1), mệnh đề if/unless thường dùng hiện tại đơn dù kết quả ở tương lai.",
+          "examples": [
+            {
+              "en": "If the supplier raises prices, we will review the budget.",
+              "vi": "Nếu nhà cung cấp tăng giá, chúng tôi sẽ xem xét lại ngân sách."
+            },
+            {
+              "en": "Unless the client confirms today, we cannot ship tomorrow.",
+              "vi": "Nếu khách hàng không xác nhận hôm nay, chúng tôi không thể giao hàng ngày mai."
+            }
+          ],
+          "tip": "Unless = if ... not trong nhiều ngữ cảnh; tránh dùng thêm not khi không cần."
+        },
+        {
+          "title": "Câu điều kiện loại 0 – kết quả thường đúng",
+          "pattern": "If / when + S + V(s/es), S + V(s/es)",
+          "usage": "Diễn tả quan hệ nguyên nhân–kết quả hay quy tắc nhìn chung đúng, không nhấn mạnh một sự kiện tương lai cụ thể.",
+          "examples": [
+            {
+              "en": "If a customer loses the receipt, the store issues a copy.",
+              "vi": "Nếu khách hàng làm mất hóa đơn, cửa hàng cấp một bản sao."
+            },
+            {
+              "en": "When the alarm sounds, the system shuts down automatically.",
+              "vi": "Khi chuông báo kêu, hệ thống tự động tắt."
+            }
+          ],
+          "tip": "Cả hai mệnh đề dùng hiện tại đơn; đây là quy tắc, khác câu điều kiện loại 1 có kết quả tương lai."
+        },
+        {
+          "title": "Hướng dẫn từng bước và chỉ đường",
+          "pattern": "First / then + you + V(s) ...",
+          "usage": "Trong lời giải thích quy trình hoặc chỉ đường, có thể dùng các mệnh đề hiện tại đơn để mô tả từng bước, đặc biệt khi nói trực tiếp với người nghe.",
+          "examples": [
+            {
+              "en": "First, you open the app, and then you select Settings.",
+              "vi": "Đầu tiên bạn mở ứng dụng, sau đó bạn chọn Cài đặt."
+            },
+            {
+              "en": "You turn left at the bank and walk two blocks.",
+              "vi": "Bạn rẽ trái ở ngân hàng và đi bộ thêm hai dãy phố."
+            }
+          ],
+          "tip": "Dạng mệnh lệnh như Open the app cũng rất phổ biến nhưng không phải cấu trúc chủ ngữ + động từ hiện tại đơn."
+        },
+        {
+          "title": "Động từ thực hiện hành động ngay khi nói",
+          "pattern": "I + promise / apologize / agree / declare / ...",
+          "usage": "Một số động từ mang tính ngôn hành: việc phát biểu chính là thực hiện lời hứa, lời xin lỗi hoặc sự đồng ý.",
+          "examples": [
+            {
+              "en": "I apologize for the delay in processing your refund.",
+              "vi": "Tôi xin lỗi vì sự chậm trễ khi xử lý hoàn tiền."
+            },
+            {
+              "en": "I promise to send the revised report today.",
+              "vi": "Tôi hứa gửi báo cáo đã chỉnh sửa trong hôm nay."
+            }
+          ],
+          "tip": "Dùng hiện tại đơn cho những phát ngôn thực hiện hành động, không phải mọi động từ đều có chức năng này."
+        },
+        {
+          "title": "Email, văn bản và thông báo trang trọng",
+          "pattern": "I attach / I enclose / We confirm / This letter states ...",
+          "usage": "Trong thư tín hoặc văn bản trang trọng, hiện tại đơn có thể mô tả hành động gắn liền với chính văn bản đang gửi.",
+          "examples": [
+            {
+              "en": "I attach the updated price list for your reference.",
+              "vi": "Tôi đính kèm bảng giá cập nhật để bạn tham khảo."
+            },
+            {
+              "en": "We confirm receipt of your application.",
+              "vi": "Chúng tôi xác nhận đã nhận đơn đăng ký của bạn."
+            }
+          ],
+          "tip": "I am attaching cũng tự nhiên trong email hiện đại; cần học theo ngữ cảnh và văn phong."
+        },
+        {
+          "title": "Tóm tắt cốt truyện, nội dung sách hoặc phim",
+          "pattern": "S + V(s/es) in a plot summary",
+          "usage": "Kể nội dung một tác phẩm bằng hiện tại đơn như thể các sự kiện đang diễn ra trước mắt người đọc.",
+          "examples": [
+            {
+              "en": "In the novel, a young engineer discovers a secret laboratory.",
+              "vi": "Trong tiểu thuyết, một kỹ sư trẻ phát hiện phòng thí nghiệm bí mật."
+            },
+            {
+              "en": "The story follows a detective who solves a difficult case.",
+              "vi": "Câu chuyện theo chân một thám tử giải quyết một vụ án khó."
+            }
+          ],
+          "tip": "Đây là cách dùng phổ biến khi tóm tắt nội dung, không phải kể lại mọi sự kiện lịch sử bằng hiện tại đơn."
+        },
+        {
+          "title": "Tường thuật sống động và bình luận trực tiếp",
+          "pattern": "S + V(s/es) + ...",
+          "usage": "Khi bình luận thể thao, trình diễn hoặc kể chuyện sinh động, hiện tại đơn có thể dùng cho hành động xảy ra ngay trước mắt.",
+          "examples": [
+            {
+              "en": "The striker takes the ball, turns, and scores!",
+              "vi": "Tiền đạo nhận bóng, xoay người và ghi bàn!"
+            },
+            {
+              "en": "I press the button, and the screen lights up.",
+              "vi": "Tôi nhấn nút, và màn hình sáng lên."
+            }
+          ],
+          "tip": "Present Continuous cũng xuất hiện trong bình luận trực tiếp; sự khác biệt nằm ở cách nhìn hành động."
+        },
+        {
+          "title": "Tiêu đề báo chí nói về sự kiện đã xảy ra",
+          "pattern": "Headline: S + V(s/es) + ...",
+          "usage": "Tiêu đề báo sử dụng hiện tại đơn để trình bày sự kiện mới xảy ra theo cách ngắn gọn và tạo cảm giác thời sự.",
+          "examples": [
+            {
+              "en": "Local retailer opens a new distribution center.",
+              "vi": "Nhà bán lẻ địa phương mở trung tâm phân phối mới."
+            },
+            {
+              "en": "Technology firm announces record quarterly sales.",
+              "vi": "Công ty công nghệ công bố doanh số quý cao kỷ lục."
+            }
+          ],
+          "tip": "Trong phần nội dung bài báo, thì động từ có thể trở lại quá khứ; tiêu đề là văn phong đặc biệt."
+        }
+      ],
+      "mistakes": [
+        [
+          "He work in accounting.",
+          "He works in accounting.",
+          "Ngôi thứ ba số ít với động từ thường cần -s/-es."
+        ],
+        [
+          "Does she works here?",
+          "Does she work here?",
+          "Sau does dùng động từ nguyên mẫu không to."
+        ],
+        [
+          "They are usually go to work by bus.",
+          "They usually go to work by bus.",
+          "Không thêm be trước một động từ thường ở hiện tại đơn."
+        ],
+        [
+          "When she will arrive, we will begin.",
+          "When she arrives, we will begin.",
+          "Mệnh đề thời gian chỉ tương lai thường dùng Present Simple."
+        ],
+        [
+          "I am knowing the answer.",
+          "I know the answer.",
+          "Know là động từ trạng thái, thường không dùng tiếp diễn theo nghĩa này."
+        ],
+        [
+          "If the price will change, we will notify you.",
+          "If the price changes, we will notify you.",
+          "Trong câu điều kiện thực điển hình, mệnh đề if dùng hiện tại đơn."
+        ]
+      ],
+      "notes": "Bài mẫu **Present Simple** này được chia riêng thành từng cách sử dụng, bao gồm dạng thông dụng trong TOEIC và một số cách dùng nâng cao ít gặp hơn. Với mỗi trường hợp đều có giải thích, công thức hoặc cấu trúc minh họa, **hai ví dụ song ngữ** và lưu ý dễ nhầm. Mục tiêu bao phủ các cách dùng quan trọng; vẫn cần kiểm duyệt học thuật trước khi gọi đây là nội dung giáo trình chính thức."
+    }
+  ]
+}

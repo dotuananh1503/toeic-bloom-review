@@ -1,0 +1,370 @@
+[
+  {
+    "source": {
+      "id": "bloom-espeak",
+      "name": "TOEIC Bloom · giọng máy eSpeak NG",
+      "url": "https://github.com/ianmarmour/espeak-ng.js",
+      "version": "espeak-ng.js 1.0.2",
+      "license": "Original project material, local educational use",
+      "attribution": "Lời thoại dự án biên soạn, tổng hợp offline bằng eSpeak NG. Engine GPL-3.0-or-later; chỉ phân phối WAV với gói nội dung."
+    },
+    "items": [
+      {
+        "id": "voice:application-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:1fe289205936c3fdb6115822",
+        "file": "audio/application-en-us.wav",
+        "sha256": "73deb5ea4ca626baf8bf3f5cb92004a44d17dc55fea68f784d86a32e370c7301",
+        "synthetic": true
+      },
+      {
+        "id": "voice:application-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:1fe289205936c3fdb6115822",
+        "file": "audio/application-en-gb.wav",
+        "sha256": "d1edbd76119b88dd7fbadfa0cde928ab232b00ffbce1a9753427abe45a06e181",
+        "synthetic": true
+      },
+      {
+        "id": "voice:appointment-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:fd37f875ad2991f4970fa81e",
+        "file": "audio/appointment-en-us.wav",
+        "sha256": "d4aea546987e8a87d3c44bce3b91a8e469560e75c54979d0dd29d8212cb63067",
+        "synthetic": true
+      },
+      {
+        "id": "voice:appointment-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:fd37f875ad2991f4970fa81e",
+        "file": "audio/appointment-en-gb.wav",
+        "sha256": "23d1b13ba8ef21734a3a72ec7d23f26c139b525f4330a48d76d182b7ac600fb6",
+        "synthetic": true
+      },
+      {
+        "id": "voice:approval-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:9deb65b8788f41ff94a21784",
+        "file": "audio/approval-en-us.wav",
+        "sha256": "f9a9f1273234ad949c0e1f7becc64daf675d6c31a636de1964d4924d39b5784d",
+        "synthetic": true
+      },
+      {
+        "id": "voice:approval-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:9deb65b8788f41ff94a21784",
+        "file": "audio/approval-en-gb.wav",
+        "sha256": "381ef6c7851d1467bdd98e806c57e96106f425b0472f90fc6177de666377e7dd",
+        "synthetic": true
+      },
+      {
+        "id": "voice:approve-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:74e21680eac7385ca408cb01",
+        "file": "audio/approve-en-us.wav",
+        "sha256": "5ff521232cd680c522ef6b5808399e42685198c06bc8f2bcdf41a8f0302489cd",
+        "synthetic": true
+      },
+      {
+        "id": "voice:approve-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:74e21680eac7385ca408cb01",
+        "file": "audio/approve-en-gb.wav",
+        "sha256": "d03ba234ea606aed0c8346cc86055fc9fa945b60a791c023f97dc2ea0af66418",
+        "synthetic": true
+      },
+      {
+        "id": "voice:available-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:ddd9818abacfde7afed60c93",
+        "file": "audio/available-en-us.wav",
+        "sha256": "0d5888499ce4ae0e4ee3fffeb0d6df47c7a574b71d212df6dbb05eb993d26941",
+        "synthetic": true
+      },
+      {
+        "id": "voice:available-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:ddd9818abacfde7afed60c93",
+        "file": "audio/available-en-gb.wav",
+        "sha256": "8f2535c48906b85d65ee19c2ecb3b53e569888e22b12fcfa8c30bf91f4152e38",
+        "synthetic": true
+      },
+      {
+        "id": "voice:confirm-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:3f267c2ab422e502bad8e60f",
+        "file": "audio/confirm-en-us.wav",
+        "sha256": "86fa8633fdf232b58090f5cdb5f35258a6455f5a7b7ac33e7094b08eceb0011b",
+        "synthetic": true
+      },
+      {
+        "id": "voice:confirm-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:3f267c2ab422e502bad8e60f",
+        "file": "audio/confirm-en-gb.wav",
+        "sha256": "33524b508d4c831d7e8f1edf770e4436d4b8b7e55c05beeb11a99fd1c960d21b",
+        "synthetic": true
+      },
+      {
+        "id": "voice:deadline-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:dfc8aeb39828e31c4cf8fec5",
+        "file": "audio/deadline-en-us.wav",
+        "sha256": "1ce97e6e769a566cb2a279d5190c8b0b8b464d4804721df54098dae15f7c04f4",
+        "synthetic": true
+      },
+      {
+        "id": "voice:deadline-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:dfc8aeb39828e31c4cf8fec5",
+        "file": "audio/deadline-en-gb.wav",
+        "sha256": "81d311f7f45b6f116123a3aa2be022b62560855b69924d9bbc5c4da901b7716c",
+        "synthetic": true
+      },
+      {
+        "id": "voice:direct-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:d15690f08a575024650b01ff",
+        "file": "audio/direct-en-us.wav",
+        "sha256": "45900b2ff2bfc5d62fc8208146f36690b395fb8b6f4e16b111ec9df04a71b1f4",
+        "synthetic": true
+      },
+      {
+        "id": "voice:direct-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:d15690f08a575024650b01ff",
+        "file": "audio/direct-en-gb.wav",
+        "sha256": "c9c21c43661ec6621c4d29d8fcde81d6aa3bf1f444827826c22f1501e45e26f0",
+        "synthetic": true
+      },
+      {
+        "id": "voice:inventory-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:b11a85b296a90afc46043043",
+        "file": "audio/inventory-en-us.wav",
+        "sha256": "f10f96c71426d3a62dfd64154c0d7281dcf702a6b822f441fe6c2cdb3a1dca48",
+        "synthetic": true
+      },
+      {
+        "id": "voice:inventory-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:b11a85b296a90afc46043043",
+        "file": "audio/inventory-en-gb.wav",
+        "sha256": "dad1b2eee33dd197b1523c753c1c17888ef575467560fd0903d1a9b5ab1cfa89",
+        "synthetic": true
+      },
+      {
+        "id": "voice:invoice-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:52d6e3de4fa0dcc29946695f",
+        "file": "audio/invoice-en-us.wav",
+        "sha256": "9ea55712abdd6dab7cdecad27d8be349f092eb7b46237258a94fc66af54f43c2",
+        "synthetic": true
+      },
+      {
+        "id": "voice:invoice-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:52d6e3de4fa0dcc29946695f",
+        "file": "audio/invoice-en-gb.wav",
+        "sha256": "b30351edf7c5f69df3d24160236a76b591017173c8406c0174df16f0ccd18bcd",
+        "synthetic": true
+      },
+      {
+        "id": "voice:maintenance-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:8589c63b0943a62bfda9b35d",
+        "file": "audio/maintenance-en-us.wav",
+        "sha256": "6ed47a53a4acdcd0048038f1b7b795d4980b147e5df165721b0f5e0f6db02566",
+        "synthetic": true
+      },
+      {
+        "id": "voice:maintenance-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:8589c63b0943a62bfda9b35d",
+        "file": "audio/maintenance-en-gb.wav",
+        "sha256": "6a0372655942b3a179039a50101b6e733b4c7bd561ed245266d3db24be8a20a1",
+        "synthetic": true
+      },
+      {
+        "id": "voice:negotiate-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:67c9a9ad709a59ba7747212e",
+        "file": "audio/negotiate-en-us.wav",
+        "sha256": "0565d0dfd276c8214269f99c882686b0217caad8a32b99d583db42569a2f5646",
+        "synthetic": true
+      },
+      {
+        "id": "voice:negotiate-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:67c9a9ad709a59ba7747212e",
+        "file": "audio/negotiate-en-gb.wav",
+        "sha256": "c52b731a8e91ab0975f187efbf26e3e0d5bb95a0a4eb9014fe4dfed4506f9df5",
+        "synthetic": true
+      },
+      {
+        "id": "voice:record-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:70ce871f8a3d3fb449bc3c3a",
+        "file": "audio/record-en-us.wav",
+        "sha256": "eb3c2163af5b5bae8064cd7a6747871a95676e39f92a1e5e32c2b78c87e45a95",
+        "synthetic": true
+      },
+      {
+        "id": "voice:record-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:70ce871f8a3d3fb449bc3c3a",
+        "file": "audio/record-en-gb.wav",
+        "sha256": "21fc7293f2a11bc7ae0aab81ebf03db02d75a583f1f66f8350f2a16811395a5a",
+        "synthetic": true
+      },
+      {
+        "id": "voice:reimbursement-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:4c03df9cdfacd7ea8e0de2df",
+        "file": "audio/reimbursement-en-us.wav",
+        "sha256": "b7211fe9de010998f40cc5a103d021fde64dcc7e08b5a49f3ff2d6b1a9803f10",
+        "synthetic": true
+      },
+      {
+        "id": "voice:reimbursement-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:4c03df9cdfacd7ea8e0de2df",
+        "file": "audio/reimbursement-en-gb.wav",
+        "sha256": "dceada605005224878e1b09125212e8d5a3fbc724c58a26eeaa7bcab163c1a04",
+        "synthetic": true
+      },
+      {
+        "id": "voice:schedule-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:5f72005e81c4ecbd5aa3588e",
+        "file": "audio/schedule-en-us.wav",
+        "sha256": "d8679ac460540a485e49f168781e05c3b1fc7858f1b0a63d007df9f0be4cdda9",
+        "synthetic": true
+      },
+      {
+        "id": "voice:schedule-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:5f72005e81c4ecbd5aa3588e",
+        "file": "audio/schedule-en-gb.wav",
+        "sha256": "55824f2027cd2df66d80016dc59e12cef7551f3585a26f555204d379faa6d82d",
+        "synthetic": true
+      },
+      {
+        "id": "voice:shipment-en-us",
+        "usage": "vocabulary",
+        "accent": "en-US",
+        "targetId": "word:59f9076bc5008c4d07960fa3",
+        "file": "audio/shipment-en-us.wav",
+        "sha256": "e7026b127fc9e5c132574590350871f88f51296a0c6ec37b499930bd9188a36e",
+        "synthetic": true
+      },
+      {
+        "id": "voice:shipment-en-gb",
+        "usage": "vocabulary",
+        "accent": "en-GB",
+        "targetId": "word:59f9076bc5008c4d07960fa3",
+        "file": "audio/shipment-en-gb.wav",
+        "sha256": "a54c581fb926fcf221b51da0ced0fa014002d11410f54f526dd967789a78a428",
+        "synthetic": true
+      },
+      {
+        "id": "listening:photo-meeting-room",
+        "usage": "listening",
+        "targetId": "photo-meeting-room",
+        "file": "audio/photo-meeting-room.wav",
+        "sha256": "73b7f5acd37fed18edc071d87139498dfef9802b8001345e527228a4cbbe8e44",
+        "synthetic": true
+      },
+      {
+        "id": "listening:response-delivery",
+        "usage": "listening",
+        "targetId": "response-delivery",
+        "file": "audio/response-delivery.wav",
+        "sha256": "bc477b3dc571532d4229c4d75e113cf8deec354ea69e58c88061ed36dc6e99b7",
+        "synthetic": true
+      },
+      {
+        "id": "listening:response-invoice",
+        "usage": "listening",
+        "targetId": "response-invoice",
+        "file": "audio/response-invoice.wav",
+        "sha256": "c069870ff519ad889205e6e061b055ccd5ad4b52f7cac8fd7539ee2d7337a973",
+        "synthetic": true
+      },
+      {
+        "id": "listening:response-workshop",
+        "usage": "listening",
+        "targetId": "response-workshop",
+        "file": "audio/response-workshop.wav",
+        "sha256": "3fd3a3afa3cf5fb734b32b373c2aec88a72ce5a88a128eb83c7e5eba60e40ec5",
+        "synthetic": true
+      },
+      {
+        "id": "listening:dialogue-delivery",
+        "usage": "listening",
+        "targetId": "dialogue-delivery",
+        "file": "audio/dialogue-delivery.wav",
+        "sha256": "06a3c8e7af1041e4b03cae2adc9b4a7db4e69ba2428416f7e454cc259bbd63fd",
+        "synthetic": true
+      },
+      {
+        "id": "listening:talk-floor",
+        "usage": "listening",
+        "targetId": "talk-floor",
+        "file": "audio/talk-floor.wav",
+        "sha256": "f1a0d7d826038119bb7766fde93e935b55f580b0eafbbef90c0b9445454cc0b5",
+        "synthetic": true
+      }
+    ]
+  },
+  {
+    "source": {
+      "id": "commons-meeting-room",
+      "name": "Chairs-2181923",
+      "url": "https://commons.wikimedia.org/wiki/File:Chairs-2181923.jpg",
+      "version": "2019-01-18",
+      "license": "CC0-1.0",
+      "attribution": "Pexels (Pixabay), Chairs-2181923, qua Wikimedia Commons. Bản ảnh thu nhỏ."
+    },
+    "items": [
+      {
+        "id": "scene:meeting-room",
+        "file": "meeting-room.jpg",
+        "sha256": "f4f032a2d45b94effdc317a66220cc90aa4b2e67585d98c1c4f5ec5de995b898",
+        "usage": "scene",
+        "targetId": "photo-meeting-room",
+        "synthetic": false
+      }
+    ]
+  }
+]

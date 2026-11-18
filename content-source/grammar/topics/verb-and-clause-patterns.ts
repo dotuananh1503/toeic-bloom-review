@@ -1,0 +1,87 @@
+import { guide,grammarReference } from '../guide';
+
+export const passivePatterns=guide({
+  id:'passive-patterns',title:'Advanced passive patterns',titleVi:'Bị động mở rộng',topic:'Thể của động từ',level:'hard',
+  summary:'Chuyển trọng tâm trong báo cáo, biên bản và thông báo bằng bị động có hai tân ngữ, bị động tường thuật, get-passive và cấu trúc nhờ làm.',
+  references:[grammarReference+'passives-with-and-without-an-agent',grammarReference+'get-passive'],
+  formulas:[
+    ['Báo cáo không nêu người phát ngôn','It + be + V3 + that-clause','Dùng it làm chủ ngữ hình thức.'],
+    ['Đưa đối tượng được báo cáo lên đầu','S + be + V3 + to-infinitive','Dạng to have + V3 diễn đạt hành động xảy ra trước.'],
+    ['Nhờ hoặc thu xếp','S + have / get + object + V3','Chủ ngữ thu xếp hoặc trải qua sự việc.'],
+  ],
+  uses:[
+    ['two-objects','Bị động với hai tân ngữ','Đưa người nhận hoặc vật được trao lên đầu câu.','recipient + be + V3 + thing','send, give, offer, show','Có thể đưa vật lên đầu và thêm to khi giới thiệu người nhận.',
+      ['Each trainee was given a locker.','Mỗi học viên được cấp một tủ đồ.'],['A welcome letter was sent to each new member.','Mỗi thành viên mới được gửi một thư chào mừng.']],
+    ['reporting','Bị động tường thuật một nhận định','Trình bày một nhận định trong bản tin hoặc báo cáo.','It + is/was + believed/reported + that + clause','believe, report, think, estimate','Câu thể hiện nội dung được báo cáo, không tự xác nhận độ chắc chắn.',
+      ['It is estimated that repairs will take three weeks.','Theo ước tính, việc sửa chữa sẽ kéo dài ba tuần.'],['It was reported that both entrances had reopened.','Có thông tin cho biết cả hai lối vào đã mở lại.']],
+    ['reporting-infinitive','Bị động tường thuật với động từ nguyên mẫu','Đặt người hoặc vật chính ở đầu câu và lựa chọn dạng nguyên mẫu theo quan hệ thời gian.','S + be + reporting V3 + to be / to have + V3','is expected to, is believed to have','Chọn to have + V3 khi việc được nêu xảy ra trước lúc tường thuật.',
+      ['The new terminal is expected to open in June.','Nhà ga mới dự kiến mở cửa vào tháng Sáu.'],['The supplier is believed to have sent the files on Monday.','Người ta cho rằng nhà cung cấp đã gửi các tệp vào thứ Hai.']],
+    ['prepositional','Bị động giữ giới từ hoặc tiểu từ','Giữ phần còn lại của động từ nhiều từ sau V3.','object + be + V3 + preposition/particle','refer to, look after, call off','Một số động từ có giới từ khó dùng ở bị động. Hãy kiểm tra cụm trong từ điển.',
+      ['The revised policy was referred to during the meeting.','Chính sách sửa đổi đã được đề cập trong cuộc họp.'],['The afternoon tour was called off.','Chuyến tham quan buổi chiều đã bị hủy.']],
+    ['get','Get-passive trong giao tiếp','Nhấn mạnh sự kiện hoặc thay đổi khi kể lại điều vừa xảy ra.','S + get + V3','got delayed, got damaged','Be-passive thường phù hợp hơn trong văn bản hành chính.',
+      ['Two cartons got damaged in transit.','Hai thùng hàng bị hư hại trong quá trình vận chuyển.'],['Our appointment got moved to Thursday.','Lịch hẹn của chúng tôi đã bị dời sang thứ Năm.']],
+    ['causative','Have hoặc get something done','Mô tả việc thu xếp cho người khác làm hoặc sự kiện ảnh hưởng đến chủ thể.','S + have/get + object + V3','have the printer serviced, get the lock replaced','So sánh have someone do với get someone to do khi nêu người thực hiện.',
+      ['We had the water filters replaced yesterday.','Hôm qua chúng tôi đã cho thay các bộ lọc nước.'],['Please get the door lock checked before Friday.','Vui lòng sắp xếp kiểm tra khóa cửa trước thứ Sáu.']],
+  ],
+  exceptions:['Động từ nội động như arrive không tạo bị động vì không có tân ngữ.','V3 cũng có thể miêu tả trạng thái như The venue is closed. Bối cảnh hoặc by + tác nhân có thể làm nổi bật hành động.'],
+  comparisons:[['Chủ động và bị động tường thuật','Analysts expect the store to open in April và The store is expected to open in April khác nhau về điểm đầu câu.']],
+  errors:[['The bus was arrived at noon.','The bus arrived at noon.','Arrive là nội động từ.'],['The announcement was listened.','The announcement was listened to.','Giữ to trong listen to.']],
+});
+
+export const relativePatterns=guide({
+  id:'relative-patterns',title:'Advanced relative clauses',titleVi:'Mệnh đề quan hệ mở rộng',topic:'Mệnh đề',level:'hard',
+  summary:'Đọc và viết mô tả chính xác với giới từ đi cùng đại từ quan hệ, whose, which chỉ cả sự việc và các mệnh đề rút gọn.',
+  references:[grammarReference+'relative-clauses'],
+  formulas:[
+    ['Giới từ đi trước đại từ','noun + preposition + whom/which + clause','Thường gặp trong văn viết trang trọng.'],
+    ['Sở hữu','noun + whose + noun + clause','Whose dùng được cho người, tổ chức, vật.'],
+    ['Nêu một phần của nhóm','plural noun, + quantity + of whom/which + clause','Mệnh đề bổ sung ngăn bằng dấu phẩy.'],
+  ],
+  uses:[
+    ['preposition','Đại từ quan hệ đi với giới từ','Giới từ có thể đứng trước đại từ trong văn viết hoặc cuối mệnh đề trong cách nói thông thường.','prep + whom/which · hoặc ... + prep','with whom, on which, ... spoke with','Không đặt giới từ trực tiếp trước that.',
+      ['The broker with whom we spoke has sent a quote.','Nhà môi giới mà chúng tôi đã trao đổi đã gửi báo giá.'],['This is the platform on which we publish the timetable.','Đây là nền tảng mà chúng tôi đăng lịch biểu.']],
+    ['possessive','Dùng whose để chỉ sở hữu','Gắn một người hoặc vật với thuộc tính hay đối tượng liên quan.','antecedent + whose + noun + clause','whose account, whose products','Sau whose là danh từ hoặc cụm danh từ.',
+      ['Residents whose permits expire this month should renew them online.','Cư dân có giấy phép hết hạn trong tháng này nên gia hạn trực tuyến.'],['We visited a factory whose products are shipped worldwide.','Chúng tôi đã thăm một nhà máy có sản phẩm được chuyển đi khắp thế giới.']],
+    ['quantity','Nêu một phần của nhóm','Thêm chi tiết định lượng về một nhóm đã nêu.','plural noun, + quantity + of whom/which + clause','both of which, most of whom','Whom chỉ người và which chỉ vật trong cấu trúc này.',
+      ['The branch hired eight assistants, three of whom speak Korean.','Chi nhánh đã tuyển tám trợ lý, trong đó ba người nói tiếng Hàn.'],['We inspected four pumps, two of which needed new seals.','Chúng tôi đã kiểm tra bốn máy bơm, trong đó hai máy cần thay phớt.']],
+    ['sentential','Which chỉ cả sự việc phía trước','Nêu hệ quả hoặc bình luận về cả mệnh đề trước.','clause, which + verb','which caused, which meant','Dấu phẩy giúp nhận ra phần bổ sung.',
+      ['The printer stopped working, which delayed the dispatch.','Máy in ngừng hoạt động, khiến việc gửi hàng bị chậm.'],['The organizer added another session, which gave us more options.','Ban tổ chức bổ sung một buổi, nhờ đó chúng tôi có thêm lựa chọn.']],
+    ['nonfinite','Rút gọn bằng phân từ hoặc to-infinitive','Dùng V-ing cho quan hệ chủ động, V3 cho quan hệ bị động, hoặc to-infinitive sau first/last và trong một số cấu trúc chọn lựa.','noun + V-ing / V3 / to-infinitive','requests submitted, customers waiting, the first to arrive','Có thể cần mệnh đề đầy đủ nếu người đọc cần biết thời hoặc chủ thể rõ ràng.',
+      ['Complaints received after five will be logged tomorrow.','Khiếu nại nhận sau năm giờ sẽ được ghi nhận vào ngày mai.'],['Lina was the first applicant to complete both interviews.','Lina là ứng viên đầu tiên hoàn thành cả hai buổi phỏng vấn.']],
+    ['same-place-time','Dùng where, when và why','Liên kết danh từ chỉ nơi, thời điểm hoặc lý do với mệnh đề.','place + where · time + when · reason + why','warehouse where, day when, reason why','So sánh where với which: which cần đảm nhiệm vai trò danh từ như tân ngữ.',
+      ['We toured the depot where spare parts are stored.','Chúng tôi đã tham quan kho nơi lưu phụ tùng.'],['Is there a reason why the invoice has two totals?','Có lý do nào khiến hóa đơn có hai số tổng không?']],
+  ],
+  exceptions:['Chỉ lược đại từ quan hệ làm tân ngữ trong mệnh đề xác định, ví dụ the report (that) I sent.','Không dùng that trong mệnh đề không xác định ngăn bằng dấu phẩy.'],
+  comparisons:[['Where và which','The office where we work nêu địa điểm làm việc. The office which we renovated dùng which làm tân ngữ của renovated.']],
+  errors:[['The client to that I wrote has replied.','The client to whom I wrote has replied.','Sau giới từ, dùng whom cho người.'],['The event, that begins at ten, is sold out.','The event, which begins at ten, is sold out.','Dùng which trong mệnh đề bổ sung về vật hoặc sự kiện.']],
+});
+
+export const verbComplements=guide({
+  id:'verb-complements',title:'Verb complements and meaning changes',titleVi:'Bổ ngữ động từ và đổi nghĩa',topic:'Dạng động từ',level:'medium',
+  summary:'Phân biệt to V, V-ing, động từ trần, tân ngữ kèm bổ ngữ và cụm giới từ sau động từ.',
+  references:[grammarReference+'verb-patterns-verb-infinitive-or-verb-ing'],
+  formulas:[
+    ['Động từ + to V','agree/decide/offer + to V','Ưu tiên học mẫu cùng từng động từ.'],
+    ['Động từ + V-ing','avoid/consider/finish + V-ing','V-ing diễn tả hoạt động hoặc sự việc.'],
+    ['Động từ + tân ngữ','ask/allow/remind + object + to V','Tân ngữ là người thực hiện hành động thứ hai.'],
+  ],
+  uses:[
+    ['intent','To-infinitive sau động từ chỉ dự định hoặc quyết định','Dùng sau decide, agree, hope, plan hoặc offer.','verb + to + V','agreed to extend, hopes to win','Suggest thường dùng suggest + V-ing hoặc suggest that + mệnh đề.',
+      ['The landlord agreed to extend the lease.','Chủ nhà đã đồng ý gia hạn hợp đồng thuê.'],['We hope to fill both positions by July.','Chúng tôi hy vọng tuyển đủ cả hai vị trí trước tháng Bảy.']],
+    ['activity','V-ing sau động từ chỉ hoạt động được cân nhắc hoặc hoàn tất','Dùng với consider, finish, avoid, keep, enjoy hoặc postpone.','verb + V-ing','considering moving, finished packing','Sau giới từ dùng V-ing, gồm cả to là giới từ.',
+      ['They are considering moving the workshop online.','Họ đang cân nhắc chuyển buổi hội thảo sang hình thức trực tuyến.'],['Have you finished packing the samples?','Bạn đã đóng gói xong các mẫu chưa?']],
+    ['object','Tân ngữ + to-infinitive','Giữ tân ngữ khi chỉ định người thực hiện việc được nhắc, cho phép hoặc yêu cầu.','verb + object + to + V','remind us to, allow visitors to','Một số động từ chấp nhận V-ing không tân ngữ và object + to V, ví dụ allow parking và allow guests to park.',
+      ['Please remind Eva to bring her access card.','Vui lòng nhắc Eva mang theo thẻ ra vào.'],['This permit allows vendors to park near the hall.','Giấy phép này cho các nhà cung cấp đỗ xe gần hội trường.']],
+    ['perception','Động từ trần và V-ing sau động từ tri giác','Dùng dạng trần khi xem hành động như một sự kiện trọn vẹn, V-ing khi thấy nó đang diễn ra.','see/hear/watch + object + V / V-ing','saw them load/loading','Với make chủ động dùng object + V. Dạng bị động thường dùng be made + to V.',
+      ['I saw the driver unload all six boxes.','Tôi đã thấy tài xế dỡ cả sáu thùng hàng.'],['We heard someone moving furniture upstairs.','Chúng tôi nghe thấy ai đó đang chuyển đồ đạc ở tầng trên.']],
+    ['change','Đổi nghĩa với remember, stop và try','Phân biệt nhớ việc cần làm với ký ức, dừng một hoạt động với dừng để làm việc khác, thử cách làm với nỗ lực làm.','remember/stop/try + to V hoặc V-ing','stop texting vs. stop to text','So sánh riêng từng động từ. Không dùng một công thức nghĩa chung cho mọi trường hợp.',
+      ['Remember to lock the loading bay before you leave.','Nhớ khóa khu bốc dỡ trước khi bạn rời đi.'],['I remember locking it after the last delivery.','Tôi nhớ mình đã khóa khu đó sau chuyến giao hàng cuối cùng.']],
+    ['preposition-to','To là giới từ trong bổ ngữ','Dùng V-ing sau look forward to, object to, be used to hoặc be committed to.','expression + to + noun / V-ing','look forward to hearing, object to paying','Phân biệt be used to doing là quen với việc và used to do là từng làm.',
+      ['We look forward to welcoming your team.','Chúng tôi mong được đón tiếp nhóm của bạn.'],['The staff are used to working in shifts.','Nhân viên đã quen làm việc theo ca.']],
+    ['object-complement','Bổ ngữ mô tả hoặc đặt tên cho tân ngữ','Theo sau tân ngữ bằng tính từ hoặc danh từ để bổ sung trạng thái, đánh giá hoặc vai trò.','make/find/keep/name + object + adjective/noun','keep the door open, find the rates reasonable','Từ sau tân ngữ mô tả tân ngữ đó.',
+      ['Please keep the exit clear during the conference.','Vui lòng để lối thoát thông thoáng trong suốt hội nghị.'],['The board named Asha interim director.','Hội đồng bổ nhiệm Asha làm giám đốc tạm quyền.']],
+  ],
+  exceptions:['Help có thể đi với bare infinitive hoặc to-infinitive.','Advise có thể dùng advise doing hoặc advise someone to do.'],
+  comparisons:[['Stop + V-ing và stop + to V','Stopped checking orders là thôi kiểm tra đơn. Stopped to check orders là tạm dừng việc đang làm để kiểm tra đơn.'],['Try + V-ing và try + to V','Try restarting là thử khởi động lại như một giải pháp. Try to restart là cố gắng khởi động lại.']],
+  errors:[['We suggested to delay the launch.','We suggested delaying the launch.','Suggest nhận V-ing hoặc that-clause.'],['We look forward to receive your reply.','We look forward to receiving your reply.','To trong look forward to là giới từ.']],
+});
