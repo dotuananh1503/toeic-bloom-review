@@ -1,0 +1,17 @@
+# Nguồn và giấy phép
+
+| Nguồn | Sử dụng | Quyền và ghi công |
+| --- | --- | --- |
+| [Open English Wordnet 2025](https://en-word.net/downloads) | Định nghĩa, ví dụ Anh, biến thể, quan hệ synset theo tập lemma chọn lọc | CC BY 4.0 và Princeton WordNet License. Ghi công Open English Wordnet team và Princeton University WordNet. Đính kèm [thông báo giấy phép](../content-source/OEWN-LICENSE.txt). Xem [thông báo nguồn](https://github.com/globalwordnet/english-wordnet/blob/2025-edition/WNDB_License.txt). |
+| [TOEIC Service List 1.2](https://www.newgeneralservicelist.com/toeic-service-list) | 1.250 mục, xếp hạng, định nghĩa tiếng Anh bổ sung | CC BY-SA 4.0. Charles Browne và Brent Culligan. |
+| [New General Service List 1.2](https://www.newgeneralservicelist.com/new-general-service-list) | 2.809 mục, xếp hạng, định nghĩa tiếng Anh bổ sung | CC BY-SA 4.0. Charles Browne, Brent Culligan và Joseph Phillips. |
+| [Business Service List 1.2](https://www.newgeneralservicelist.com/business-service-list) | 1.744 mục có hạng trong CSV chính thức dùng để nhập, cùng các biến thể trong tệp giảng dạy | CC BY-SA 4.0. Charles Browne và Brent Culligan. |
+| [Free Vietnamese Dictionary Project](https://vi.wiktionary.org/wiki/Wiktionary:Ngu%E1%BB%93n_g%E1%BB%91c/FVDP) qua [bản đóng gói vnme-data 1.0.0](https://github.com/tecxmate/vnme-data/releases/tag/v1.0.0) | Chú giải Anh–Việt và ví dụ có cặp từ nguồn FVDP | GPL-3.0 theo tập dữ liệu gốc được dùng. Ghi công Hồ Ngọc Đức và Free Vietnamese Dictionary Project, phiên bản ghi nhận 01/07/2004. Đính kèm [GPL-3.0](../content-source/FVDP-GPL-3.0.txt). |
+| [Kaikki/Wiktextract](https://kaikki.org/dictionary/English/index.html) | Có parser JSONL, mặc định chưa cài dump | Người nhập xác nhận phiên bản, SHA-256, attribution và CC BY-SA áp dụng. Pipeline bỏ qua media và trích dẫn bên thứ ba. |
+| [Chairs-2181923](https://commons.wikimedia.org/wiki/File:Chairs-2181923.jpg) | Ảnh bài Part 1, bản 960 px | Pexels qua Pixabay và Wikimedia Commons, CC0 1.0. SHA-256 của bản đi kèm: `f4f032a2d45b94effdc317a66220cc90aa4b2e67585d98c1c4f5ec5de995b898`. |
+| [eSpeak NG](https://github.com/espeak-ng/espeak-ng) qua [bản WASM eSpeak NG.js 1.0.2](https://github.com/ianmarmour/espeak-ng.js) | Tạo WAV và IPA từ mục từ theo yêu cầu qua Node.js cục bộ, tạo sẵn WAV cho một số từ và lời thoại luyện nghe | Engine GPL-3.0-or-later. WAV phát trên web có nhãn giọng máy. |
+| HTML V3.3 do người dùng cung cấp | Bản tổng hợp ngữ pháp, ví dụ và câu kiểm tra | Dùng cho học tập cục bộ. Ghi tên file và SHA-256 của bản nguồn; quyền phân phối công khai cần đối chiếu riêng. |
+| [ETS TOEIC](https://www.ets.org/toeic/about/listening-reading.html) | Đối chiếu cấu trúc Listening & Reading | Nội dung câu hỏi và bài thi dự án tự biên soạn. |
+| [British Council LearnEnglish](https://learnenglish.britishcouncil.org/free-resources/grammar) và [Cambridge English Grammar Today](https://dictionary.cambridge.org/grammar/british-grammar/) | Tham khảo quy tắc ngữ pháp | Dùng làm nguồn đối chiếu, không phân phối nội dung nguồn. |
+
+Hash OEWN 2025 XML.GZ là `9ca6d1dcb75f822fdd66617f7d9da48142ace38dd544d6ad5e2feca1674ad3fe`. Gói từ vựng chọn theo lemma, giữ từ loại, nghĩa và ví dụ theo nguồn. Các chú giải FVDP có ID, nguồn và trạng thái riêng. Danh sách TSL/NGSL dùng làm bộ học theo mức độ phổ biến. Các mục có định nghĩa, ví dụ và cụm từ do dự án tự viết mang nguồn nội dung biên soạn và trạng thái chờ kiểm duyệt.
